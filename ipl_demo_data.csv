@@ -1,0 +1,1401 @@
+current_score,overs_completed,wickets_lost,current_run_rate,batting_team,bowling_team,venue_type,final_score
+64,7.0,1,9.14,Delhi Capitals,Lucknow Super Giants,Average scoring venue,199
+43,4.0,3,10.75,Kolkata Knight Riders,Mumbai Indians,High scoring venue,223
+123,13.5,2,9.11,Mumbai Indians,Delhi Capitals,Average scoring venue,179
+55,9.33,2,5.89,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,127
+92,15.33,5,6.0,Punjab Kings,Rajasthan Royals,Low scoring venue,92
+104,14.5,4,7.17,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,125
+94,9.67,6,9.72,Sunrisers Hyderabad,Chennai Super Kings,Average scoring venue,217
+25,7.17,2,3.49,Lucknow Super Giants,Kolkata Knight Riders,High scoring venue,71
+51,5.67,4,9.0,Punjab Kings,Rajasthan Royals,Low scoring venue,188
+64,6.5,2,9.85,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,204
+76,10.67,7,7.12,Gujarat Titans,Mumbai Indians,Average scoring venue,124
+93,10.0,3,9.3,Rajasthan Royals,Lucknow Super Giants,Average scoring venue,199
+82,15.33,3,5.35,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,93
+127,16.17,3,7.86,Mumbai Indians,Punjab Kings,Average scoring venue,178
+170,19.67,0,8.64,Mumbai Indians,Rajasthan Royals,Average scoring venue,173
+169,19.33,2,8.74,Gujarat Titans,Punjab Kings,Average scoring venue,188
+88,8.5,1,10.35,Gujarat Titans,Kolkata Knight Riders,High scoring venue,245
+111,15.83,7,7.01,Chennai Super Kings,Gujarat Titans,Low scoring venue,143
+87,11.0,1,7.91,Kolkata Knight Riders,Sunrisers Hyderabad,Average scoring venue,151
+45,6.5,3,6.92,Punjab Kings,Delhi Capitals,Low scoring venue,123
+41,5.5,1,7.45,Punjab Kings,Gujarat Titans,High scoring venue,161
+143,13.83,3,10.34,Royal Challengers Bengaluru,Mumbai Indians,Low scoring venue,213
+101,11.0,6,9.18,Lucknow Super Giants,Punjab Kings,Low scoring venue,176
+143,17.83,6,8.02,Gujarat Titans,Sunrisers Hyderabad,High scoring venue,170
+48,6.17,0,7.78,Chennai Super Kings,Lucknow Super Giants,High scoring venue,157
+31,3.17,2,9.79,Rajasthan Royals,Chennai Super Kings,High scoring venue,212
+33,3.83,0,8.61,Chennai Super Kings,Mumbai Indians,Average scoring venue,155
+39,8.33,3,4.68,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,70
+88,18.17,8,4.84,Chennai Super Kings,Royal Challengers Bengaluru,Low scoring venue,116
+94,10.17,5,9.25,Sunrisers Hyderabad,Kolkata Knight Riders,Average scoring venue,186
+54,6.67,3,8.1,Rajasthan Royals,Chennai Super Kings,Average scoring venue,149
+133,15.83,3,8.4,Gujarat Titans,Punjab Kings,Average scoring venue,157
+46,4.83,1,9.52,Punjab Kings,Chennai Super Kings,High scoring venue,210
+107,17.67,4,6.06,Rajasthan Royals,Kolkata Knight Riders,Low scoring venue,115
+71,12.17,5,5.84,Rajasthan Royals,Punjab Kings,Average scoring venue,104
+121,18.17,8,6.66,Sunrisers Hyderabad,Delhi Capitals,High scoring venue,133
+33,4.33,3,7.62,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,158
+89,11.83,0,7.52,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,130
+112,12.83,6,8.73,Royal Challengers Bengaluru,Rajasthan Royals,Low scoring venue,148
+155,15.5,3,10.0,Mumbai Indians,Delhi Capitals,Average scoring venue,206
+32,4.33,0,7.38,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,141
+59,5.5,2,10.73,Punjab Kings,Gujarat Titans,Low scoring venue,197
+56,8.33,6,6.72,Gujarat Titans,Delhi Capitals,High scoring venue,147
+80,15.0,2,5.33,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,123
+43,5.33,0,8.06,Mumbai Indians,Sunrisers Hyderabad,High scoring venue,173
+59,4.67,2,12.64,Rajasthan Royals,Royal Challengers Bengaluru,Average scoring venue,254
+31,3.17,1,9.79,Mumbai Indians,Gujarat Titans,Average scoring venue,139
+67,6.67,4,10.05,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,195
+29,4.83,1,6.0,Royal Challengers Bengaluru,Mumbai Indians,Average scoring venue,134
+192,19.33,0,9.93,Royal Challengers Bengaluru,Kolkata Knight Riders,Low scoring venue,192
+110,16.0,5,6.88,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,120
+61,12.5,6,4.88,Kolkata Knight Riders,Gujarat Titans,Average scoring venue,107
+47,10.67,6,4.41,Royal Challengers Bengaluru,Kolkata Knight Riders,Average scoring venue,110
+191,18.5,2,10.32,Punjab Kings,Mumbai Indians,High scoring venue,209
+70,10.83,0,6.46,Rajasthan Royals,Lucknow Super Giants,High scoring venue,141
+31,3.33,2,9.3,Royal Challengers Bengaluru,Delhi Capitals,Average scoring venue,181
+145,18.83,0,7.7,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,159
+126,19.33,0,6.52,Chennai Super Kings,Mumbai Indians,Average scoring venue,138
+96,9.67,1,9.93,Gujarat Titans,Kolkata Knight Riders,Low scoring venue,178
+76,9.33,2,8.14,Royal Challengers Bengaluru,Lucknow Super Giants,High scoring venue,174
+119,12.0,8,9.92,Gujarat Titans,Delhi Capitals,Average scoring venue,175
+166,19.17,7,8.66,Lucknow Super Giants,Kolkata Knight Riders,Average scoring venue,166
+112,15.5,0,7.23,Punjab Kings,Delhi Capitals,High scoring venue,170
+153,18.67,0,8.2,Kolkata Knight Riders,Royal Challengers Bengaluru,Low scoring venue,156
+49,12.67,8,3.87,Gujarat Titans,Sunrisers Hyderabad,High scoring venue,99
+54,4.5,1,12.0,Royal Challengers Bengaluru,Lucknow Super Giants,High scoring venue,233
+165,18.83,2,8.76,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,172
+91,19.33,8,4.71,Chennai Super Kings,Gujarat Titans,High scoring venue,97
+177,13.83,4,12.8,Chennai Super Kings,Punjab Kings,High scoring venue,266
+76,15.17,6,5.01,Rajasthan Royals,Sunrisers Hyderabad,Low scoring venue,76
+58,7.67,4,7.57,Punjab Kings,Mumbai Indians,Average scoring venue,154
+50,6.67,0,7.5,Rajasthan Royals,Lucknow Super Giants,Average scoring venue,140
+134,18.33,7,7.31,Lucknow Super Giants,Gujarat Titans,High scoring venue,164
+76,10.83,5,7.02,Kolkata Knight Riders,Chennai Super Kings,High scoring venue,157
+167,18.17,2,9.19,Kolkata Knight Riders,Delhi Capitals,Low scoring venue,171
+38,3.5,3,10.86,Chennai Super Kings,Gujarat Titans,Low scoring venue,168
+193,19.83,3,9.73,Chennai Super Kings,Gujarat Titans,Average scoring venue,203
+25,3.67,1,6.82,Rajasthan Royals,Royal Challengers Bengaluru,Low scoring venue,121
+75,8.83,0,8.49,Punjab Kings,Chennai Super Kings,High scoring venue,210
+74,9.67,1,7.66,Royal Challengers Bengaluru,Mumbai Indians,Average scoring venue,145
+59,10.33,1,5.71,Delhi Capitals,Lucknow Super Giants,High scoring venue,125
+53,5.5,0,9.64,Sunrisers Hyderabad,Gujarat Titans,High scoring venue,210
+138,17.5,4,7.89,Royal Challengers Bengaluru,Gujarat Titans,High scoring venue,171
+85,12.17,3,6.99,Delhi Capitals,Punjab Kings,Low scoring venue,115
+16,3.17,2,5.05,Punjab Kings,Gujarat Titans,Low scoring venue,90
+84,12.33,0,6.81,Gujarat Titans,Sunrisers Hyderabad,Average scoring venue,139
+107,12.67,4,8.45,Mumbai Indians,Gujarat Titans,High scoring venue,194
+94,19.5,2,4.82,Sunrisers Hyderabad,Royal Challengers Bengaluru,High scoring venue,113
+34,5.0,0,6.8,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,113
+111,17.33,0,6.4,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,111
+51,13.83,8,3.69,Gujarat Titans,Kolkata Knight Riders,High scoring venue,110
+111,11.5,7,9.65,Punjab Kings,Chennai Super Kings,Average scoring venue,209
+66,7.67,3,8.61,Mumbai Indians,Delhi Capitals,Average scoring venue,163
+57,18.17,0,3.14,Royal Challengers Bengaluru,Punjab Kings,Average scoring venue,60
+139,19.17,0,7.25,Mumbai Indians,Gujarat Titans,High scoring venue,157
+129,13.83,4,9.33,Delhi Capitals,Gujarat Titans,High scoring venue,173
+66,9.17,2,7.2,Sunrisers Hyderabad,Royal Challengers Bengaluru,Low scoring venue,125
+56,5.33,1,10.5,Lucknow Super Giants,Punjab Kings,Average scoring venue,193
+55,16.17,8,3.4,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,64
+147,19.5,1,7.54,Sunrisers Hyderabad,Delhi Capitals,Average scoring venue,163
+128,17.83,2,7.18,Royal Challengers Bengaluru,Sunrisers Hyderabad,High scoring venue,149
+227,19.83,3,11.45,Gujarat Titans,Kolkata Knight Riders,High scoring venue,241
+41,10.0,4,4.1,Mumbai Indians,Gujarat Titans,Low scoring venue,59
+130,16.5,2,7.88,Rajasthan Royals,Gujarat Titans,High scoring venue,170
+143,14.17,0,10.09,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,218
+48,6.17,2,7.78,Lucknow Super Giants,Gujarat Titans,Low scoring venue,120
+51,5.67,2,9.0,Mumbai Indians,Royal Challengers Bengaluru,High scoring venue,218
+108,15.83,1,6.82,Mumbai Indians,Gujarat Titans,Low scoring venue,131
+21,4.67,4,4.5,Sunrisers Hyderabad,Chennai Super Kings,Average scoring venue,79
+15,5.17,2,2.9,Sunrisers Hyderabad,Chennai Super Kings,Low scoring venue,57
+109,17.67,3,6.17,Mumbai Indians,Sunrisers Hyderabad,Low scoring venue,112
+119,14.5,7,8.21,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,166
+170,17.0,7,10.0,Chennai Super Kings,Mumbai Indians,Low scoring venue,178
+91,8.17,0,11.14,Lucknow Super Giants,Gujarat Titans,Low scoring venue,231
+20,3.0,3,6.67,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,150
+74,8.33,2,8.88,Punjab Kings,Delhi Capitals,High scoring venue,177
+64,8.5,3,7.53,Punjab Kings,Delhi Capitals,Low scoring venue,175
+49,9.5,2,5.16,Rajasthan Royals,Punjab Kings,High scoring venue,102
+33,5.17,3,6.39,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,149
+108,11.67,3,9.26,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,203
+41,6.33,2,6.47,Chennai Super Kings,Lucknow Super Giants,Average scoring venue,116
+118,16.0,5,7.38,Lucknow Super Giants,Delhi Capitals,Low scoring venue,123
+103,11.67,4,8.83,Delhi Capitals,Kolkata Knight Riders,High scoring venue,197
+90,11.5,4,7.83,Mumbai Indians,Rajasthan Royals,High scoring venue,169
+61,6.5,5,9.38,Royal Challengers Bengaluru,Kolkata Knight Riders,High scoring venue,170
+158,19.17,5,8.24,Lucknow Super Giants,Chennai Super Kings,High scoring venue,184
+119,17.5,4,6.8,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,119
+19,3.17,3,6.0,Rajasthan Royals,Lucknow Super Giants,High scoring venue,112
+56,8.17,6,6.86,Sunrisers Hyderabad,Gujarat Titans,High scoring venue,148
+145,18.5,6,7.84,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,156
+122,13.67,3,8.93,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,217
+75,9.33,1,8.04,Punjab Kings,Gujarat Titans,Low scoring venue,166
+135,18.83,6,7.17,Royal Challengers Bengaluru,Rajasthan Royals,Average scoring venue,140
+155,14.5,1,10.69,Gujarat Titans,Kolkata Knight Riders,Average scoring venue,221
+33,4.0,3,8.25,Kolkata Knight Riders,Gujarat Titans,High scoring venue,185
+109,18.33,3,5.95,Rajasthan Royals,Royal Challengers Bengaluru,Low scoring venue,126
+56,9.33,4,6.0,Kolkata Knight Riders,Mumbai Indians,Low scoring venue,133
+131,15.83,2,8.27,Rajasthan Royals,Sunrisers Hyderabad,Low scoring venue,161
+163,18.17,1,8.97,Gujarat Titans,Rajasthan Royals,High scoring venue,192
+60,14.83,1,4.04,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,82
+84,9.0,2,9.33,Lucknow Super Giants,Delhi Capitals,Low scoring venue,178
+119,17.17,4,6.93,Mumbai Indians,Lucknow Super Giants,Average scoring venue,130
+91,8.67,6,10.5,Mumbai Indians,Gujarat Titans,High scoring venue,194
+70,18.33,0,3.82,Gujarat Titans,Mumbai Indians,Low scoring venue,70
+196,18.5,5,10.59,Delhi Capitals,Kolkata Knight Riders,Average scoring venue,203
+118,14.0,2,8.43,Rajasthan Royals,Chennai Super Kings,Average scoring venue,184
+123,15.5,6,7.94,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,165
+169,18.0,7,9.39,Kolkata Knight Riders,Delhi Capitals,Low scoring venue,169
+21,5.67,2,3.71,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,91
+150,18.5,4,8.11,Rajasthan Royals,Gujarat Titans,Average scoring venue,173
+117,18.33,8,6.38,Rajasthan Royals,Delhi Capitals,High scoring venue,150
+138,16.0,0,8.62,Gujarat Titans,Chennai Super Kings,High scoring venue,192
+139,16.83,5,8.26,Rajasthan Royals,Mumbai Indians,High scoring venue,179
+50,11.33,4,4.41,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,97
+119,15.83,8,7.52,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,153
+99,13.17,1,7.52,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,170
+63,6.17,5,10.22,Royal Challengers Bengaluru,Delhi Capitals,Average scoring venue,235
+123,14.67,4,8.39,Punjab Kings,Chennai Super Kings,High scoring venue,198
+46,5.83,0,7.89,Rajasthan Royals,Gujarat Titans,Low scoring venue,177
+142,18.83,4,7.54,Sunrisers Hyderabad,Delhi Capitals,Average scoring venue,142
+74,10.5,0,7.05,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,140
+118,11.17,7,10.57,Lucknow Super Giants,Chennai Super Kings,Low scoring venue,208
+18,3.0,1,6.0,Chennai Super Kings,Delhi Capitals,Low scoring venue,121
+189,19.17,5,9.86,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,191
+52,4.5,0,11.56,Punjab Kings,Sunrisers Hyderabad,Average scoring venue,237
+109,14.5,2,7.52,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,155
+76,7.5,5,10.13,Chennai Super Kings,Kolkata Knight Riders,Average scoring venue,218
+92,7.83,3,11.74,Royal Challengers Bengaluru,Rajasthan Royals,Low scoring venue,217
+54,6.33,5,8.53,Mumbai Indians,Lucknow Super Giants,Average scoring venue,199
+99,13.0,8,7.62,Sunrisers Hyderabad,Kolkata Knight Riders,Average scoring venue,152
+64,9.83,0,6.51,Gujarat Titans,Mumbai Indians,Low scoring venue,145
+154,19.17,4,8.03,Gujarat Titans,Kolkata Knight Riders,High scoring venue,184
+75,8.33,1,9.0,Rajasthan Royals,Sunrisers Hyderabad,Low scoring venue,143
+46,8.5,4,5.41,Mumbai Indians,Royal Challengers Bengaluru,High scoring venue,162
+45,3.0,1,15.0,Rajasthan Royals,Royal Challengers Bengaluru,Low scoring venue,233
+207,19.67,1,10.53,Royal Challengers Bengaluru,Mumbai Indians,High scoring venue,240
+97,10.83,3,8.95,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,155
+48,7.0,0,6.86,Mumbai Indians,Sunrisers Hyderabad,Low scoring venue,133
+15,3.67,2,4.09,Royal Challengers Bengaluru,Sunrisers Hyderabad,High scoring venue,96
+34,4.83,2,7.03,Rajasthan Royals,Kolkata Knight Riders,Low scoring venue,164
+110,13.67,0,8.05,Mumbai Indians,Gujarat Titans,High scoring venue,189
+51,5.33,0,9.56,Punjab Kings,Delhi Capitals,Average scoring venue,200
+97,11.5,6,8.43,Rajasthan Royals,Delhi Capitals,Low scoring venue,177
+29,6.33,2,4.58,Sunrisers Hyderabad,Kolkata Knight Riders,Low scoring venue,86
+84,10.17,3,8.26,Rajasthan Royals,Gujarat Titans,Low scoring venue,162
+46,5.17,3,8.9,Royal Challengers Bengaluru,Chennai Super Kings,High scoring venue,199
+33,4.17,3,7.92,Delhi Capitals,Punjab Kings,Low scoring venue,152
+196,18.0,1,10.89,Delhi Capitals,Gujarat Titans,Average scoring venue,235
+145,16.17,0,8.97,Gujarat Titans,Rajasthan Royals,Average scoring venue,171
+110,12.5,1,8.8,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,170
+132,12.5,7,10.56,Rajasthan Royals,Punjab Kings,High scoring venue,221
+90,18.33,3,4.91,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,90
+58,8.0,6,7.25,Rajasthan Royals,Lucknow Super Giants,Average scoring venue,154
+155,14.17,5,10.94,Punjab Kings,Mumbai Indians,Low scoring venue,204
+122,12.0,8,10.17,Mumbai Indians,Punjab Kings,Average scoring venue,212
+36,5.67,1,6.35,Punjab Kings,Royal Challengers Bengaluru,Average scoring venue,109
+111,14.17,6,7.84,Punjab Kings,Rajasthan Royals,High scoring venue,165
+91,18.17,8,5.01,Chennai Super Kings,Delhi Capitals,Average scoring venue,91
+66,7.33,1,9.0,Delhi Capitals,Royal Challengers Bengaluru,Low scoring venue,167
+34,4.0,0,8.5,Gujarat Titans,Mumbai Indians,Low scoring venue,189
+20,4.83,1,4.14,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,84
+146,19.0,6,7.68,Royal Challengers Bengaluru,Gujarat Titans,Average scoring venue,152
+115,12.5,0,9.2,Kolkata Knight Riders,Royal Challengers Bengaluru,Low scoring venue,160
+89,13.17,3,6.76,Mumbai Indians,Rajasthan Royals,Low scoring venue,130
+46,12.33,1,3.73,Lucknow Super Giants,Delhi Capitals,Average scoring venue,61
+33,3.0,0,11.0,Sunrisers Hyderabad,Delhi Capitals,High scoring venue,234
+75,11.83,6,6.34,Royal Challengers Bengaluru,Delhi Capitals,Low scoring venue,95
+113,15.0,1,7.53,Rajasthan Royals,Lucknow Super Giants,High scoring venue,161
+49,5.83,3,8.4,Gujarat Titans,Punjab Kings,Average scoring venue,168
+130,17.67,5,7.36,Kolkata Knight Riders,Punjab Kings,High scoring venue,156
+117,14.17,6,8.26,Lucknow Super Giants,Punjab Kings,Average scoring venue,170
+73,7.33,1,9.95,Rajasthan Royals,Delhi Capitals,High scoring venue,211
+111,16.5,4,6.73,Punjab Kings,Sunrisers Hyderabad,Low scoring venue,135
+92,12.33,7,7.46,Gujarat Titans,Chennai Super Kings,Low scoring venue,138
+157,16.67,2,9.42,Sunrisers Hyderabad,Lucknow Super Giants,Average scoring venue,197
+47,3.5,3,13.43,Kolkata Knight Riders,Mumbai Indians,Low scoring venue,239
+132,15.5,7,8.52,Mumbai Indians,Sunrisers Hyderabad,Low scoring venue,155
+94,16.0,8,5.88,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,128
+49,4.83,0,10.14,Punjab Kings,Mumbai Indians,High scoring venue,226
+115,17.17,2,6.7,Rajasthan Royals,Gujarat Titans,High scoring venue,139
+56,7.0,5,8.0,Sunrisers Hyderabad,Kolkata Knight Riders,Low scoring venue,155
+53,6.33,4,8.37,Royal Challengers Bengaluru,Delhi Capitals,High scoring venue,159
+93,7.17,2,12.98,Punjab Kings,Chennai Super Kings,High scoring venue,258
+41,8.17,6,5.02,Sunrisers Hyderabad,Lucknow Super Giants,Low scoring venue,90
+162,17.83,7,9.08,Delhi Capitals,Mumbai Indians,High scoring venue,203
+33,4.33,0,7.62,Kolkata Knight Riders,Gujarat Titans,High scoring venue,177
+36,8.67,2,4.15,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,58
+26,5.83,0,4.46,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,114
+99,15.5,6,6.39,Royal Challengers Bengaluru,Gujarat Titans,Low scoring venue,108
+36,3.83,1,9.39,Chennai Super Kings,Lucknow Super Giants,High scoring venue,196
+71,4.83,3,14.69,Royal Challengers Bengaluru,Kolkata Knight Riders,High scoring venue,253
+147,18.5,2,7.95,Punjab Kings,Kolkata Knight Riders,Low scoring venue,147
+16,3.67,2,4.36,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,65
+51,5.17,2,9.87,Delhi Capitals,Chennai Super Kings,Low scoring venue,198
+78,9.83,6,7.93,Kolkata Knight Riders,Chennai Super Kings,High scoring venue,184
+53,6.0,5,8.83,Punjab Kings,Rajasthan Royals,Average scoring venue,176
+43,6.33,0,6.79,Gujarat Titans,Sunrisers Hyderabad,Low scoring venue,124
+55,10.0,7,5.5,Royal Challengers Bengaluru,Mumbai Indians,Low scoring venue,118
+77,7.0,3,11.0,Delhi Capitals,Gujarat Titans,High scoring venue,228
+53,6.83,3,7.76,Kolkata Knight Riders,Royal Challengers Bengaluru,High scoring venue,130
+135,17.33,7,7.79,Delhi Capitals,Gujarat Titans,High scoring venue,167
+53,4.5,0,11.78,Royal Challengers Bengaluru,Mumbai Indians,Average scoring venue,244
+26,3.83,2,6.78,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,149
+79,9.0,6,8.78,Chennai Super Kings,Delhi Capitals,High scoring venue,169
+42,3.67,3,11.45,Rajasthan Royals,Chennai Super Kings,High scoring venue,254
+170,15.33,8,11.09,Lucknow Super Giants,Chennai Super Kings,Average scoring venue,223
+185,19.83,4,9.33,Chennai Super Kings,Mumbai Indians,High scoring venue,202
+17,3.83,0,4.43,Sunrisers Hyderabad,Rajasthan Royals,Low scoring venue,69
+188,19.0,7,9.89,Punjab Kings,Royal Challengers Bengaluru,Low scoring venue,188
+92,9.17,0,10.04,Royal Challengers Bengaluru,Lucknow Super Giants,Low scoring venue,189
+34,4.67,2,7.29,Sunrisers Hyderabad,Lucknow Super Giants,Low scoring venue,135
+69,9.0,0,7.67,Rajasthan Royals,Mumbai Indians,High scoring venue,159
+87,9.33,2,9.32,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,193
+81,12.33,7,6.57,Chennai Super Kings,Rajasthan Royals,Low scoring venue,152
+90,10.83,2,8.31,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,162
+127,14.67,2,8.66,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,168
+51,8.0,4,6.38,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,109
+128,11.17,2,11.46,Delhi Capitals,Sunrisers Hyderabad,Average scoring venue,224
+149,19.67,2,7.58,Mumbai Indians,Lucknow Super Giants,High scoring venue,157
+78,7.33,5,10.64,Gujarat Titans,Lucknow Super Giants,Average scoring venue,226
+16,3.5,0,4.57,Chennai Super Kings,Royal Challengers Bengaluru,High scoring venue,101
+102,11.33,1,9.0,Lucknow Super Giants,Kolkata Knight Riders,Average scoring venue,178
+31,4.83,1,6.41,Chennai Super Kings,Rajasthan Royals,Average scoring venue,131
+147,16.83,1,8.73,Delhi Capitals,Sunrisers Hyderabad,Average scoring venue,174
+80,9.67,0,8.28,Royal Challengers Bengaluru,Rajasthan Royals,Low scoring venue,188
+144,19.83,2,7.26,Gujarat Titans,Rajasthan Royals,High scoring venue,159
+159,15.67,6,10.15,Royal Challengers Bengaluru,Delhi Capitals,Low scoring venue,195
+100,13.67,6,7.32,Lucknow Super Giants,Kolkata Knight Riders,High scoring venue,138
+66,5.67,4,11.65,Rajasthan Royals,Sunrisers Hyderabad,Average scoring venue,200
+78,12.33,2,6.32,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,129
+88,8.17,5,10.78,Delhi Capitals,Lucknow Super Giants,Low scoring venue,215
+20,4.83,3,4.14,Chennai Super Kings,Rajasthan Royals,Average scoring venue,72
+64,9.33,0,6.86,Lucknow Super Giants,Rajasthan Royals,Low scoring venue,120
+108,13.67,6,7.9,Rajasthan Royals,Chennai Super Kings,Average scoring venue,142
+30,3.5,0,8.57,Punjab Kings,Lucknow Super Giants,High scoring venue,199
+48,6.0,0,8.0,Sunrisers Hyderabad,Kolkata Knight Riders,Low scoring venue,151
+34,3.33,0,10.2,Rajasthan Royals,Delhi Capitals,High scoring venue,201
+63,8.83,3,7.13,Gujarat Titans,Rajasthan Royals,High scoring venue,150
+30,3.0,1,10.0,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,221
+60,8.67,5,6.92,Punjab Kings,Rajasthan Royals,Average scoring venue,140
+59,9.83,6,6.0,Rajasthan Royals,Punjab Kings,High scoring venue,117
+125,11.0,5,11.36,Kolkata Knight Riders,Lucknow Super Giants,Average scoring venue,231
+56,8.17,5,6.86,Lucknow Super Giants,Delhi Capitals,High scoring venue,141
+28,3.17,2,8.84,Sunrisers Hyderabad,Lucknow Super Giants,Average scoring venue,196
+49,4.0,0,12.25,Gujarat Titans,Punjab Kings,Average scoring venue,249
+143,19.17,0,7.46,Gujarat Titans,Kolkata Knight Riders,Low scoring venue,151
+55,5.67,1,9.71,Royal Challengers Bengaluru,Kolkata Knight Riders,Average scoring venue,212
+51,8.33,0,6.12,Royal Challengers Bengaluru,Kolkata Knight Riders,Low scoring venue,115
+69,10.0,0,6.9,Punjab Kings,Lucknow Super Giants,High scoring venue,115
+176,18.0,4,9.78,Lucknow Super Giants,Delhi Capitals,High scoring venue,192
+61,13.0,3,4.69,Delhi Capitals,Kolkata Knight Riders,Low scoring venue,93
+31,4.5,3,6.89,Kolkata Knight Riders,Delhi Capitals,Low scoring venue,135
+82,14.17,5,5.79,Gujarat Titans,Chennai Super Kings,Low scoring venue,82
+133,16.0,2,8.31,Mumbai Indians,Gujarat Titans,Low scoring venue,174
+101,13.83,0,7.3,Mumbai Indians,Punjab Kings,Average scoring venue,154
+78,11.83,0,6.59,Gujarat Titans,Mumbai Indians,Low scoring venue,116
+45,6.17,2,7.3,Lucknow Super Giants,Punjab Kings,Low scoring venue,135
+182,16.67,5,10.92,Chennai Super Kings,Kolkata Knight Riders,Low scoring venue,219
+134,11.17,1,12.0,Delhi Capitals,Rajasthan Royals,Average scoring venue,221
+29,3.17,0,9.16,Royal Challengers Bengaluru,Mumbai Indians,High scoring venue,209
+197,19.33,2,10.19,Kolkata Knight Riders,Punjab Kings,Average scoring venue,205
+62,9.33,4,6.64,Chennai Super Kings,Kolkata Knight Riders,Low scoring venue,140
+111,15.5,5,7.16,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,149
+46,5.17,0,8.9,Sunrisers Hyderabad,Rajasthan Royals,Low scoring venue,200
+113,18.17,8,6.22,Sunrisers Hyderabad,Kolkata Knight Riders,High scoring venue,127
+65,6.0,5,10.83,Delhi Capitals,Punjab Kings,High scoring venue,229
+29,3.0,3,9.67,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,165
+36,4.33,1,8.31,Royal Challengers Bengaluru,Kolkata Knight Riders,High scoring venue,201
+63,12.5,7,5.04,Delhi Capitals,Gujarat Titans,Low scoring venue,88
+35,3.33,0,10.5,Lucknow Super Giants,Gujarat Titans,Low scoring venue,177
+134,15.67,0,8.55,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,158
+101,19.17,5,5.27,Chennai Super Kings,Punjab Kings,Average scoring venue,103
+91,12.17,2,7.48,Kolkata Knight Riders,Mumbai Indians,Low scoring venue,138
+93,11.5,6,8.09,Gujarat Titans,Mumbai Indians,Average scoring venue,154
+58,6.5,1,8.92,Kolkata Knight Riders,Delhi Capitals,High scoring venue,145
+56,7.83,3,7.15,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,151
+109,13.5,5,8.07,Rajasthan Royals,Mumbai Indians,Average scoring venue,184
+43,5.83,0,7.37,Royal Challengers Bengaluru,Delhi Capitals,Low scoring venue,168
+90,9.83,4,9.15,Delhi Capitals,Royal Challengers Bengaluru,Low scoring venue,149
+94,9.33,1,10.07,Rajasthan Royals,Mumbai Indians,High scoring venue,210
+129,18.0,4,7.17,Gujarat Titans,Mumbai Indians,High scoring venue,164
+143,17.83,1,8.02,Sunrisers Hyderabad,Royal Challengers Bengaluru,Low scoring venue,143
+102,13.33,6,7.65,Delhi Capitals,Rajasthan Royals,Average scoring venue,130
+153,17.17,2,8.91,Gujarat Titans,Royal Challengers Bengaluru,Low scoring venue,176
+45,4.83,0,9.31,Kolkata Knight Riders,Royal Challengers Bengaluru,Low scoring venue,174
+72,8.83,0,8.15,Punjab Kings,Delhi Capitals,Average scoring venue,164
+82,9.17,6,8.95,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,180
+57,9.83,2,5.8,Chennai Super Kings,Mumbai Indians,Average scoring venue,110
+48,12.83,5,3.74,Gujarat Titans,Kolkata Knight Riders,Average scoring venue,75
+91,18.17,6,5.01,Chennai Super Kings,Gujarat Titans,High scoring venue,126
+151,17.67,0,8.55,Royal Challengers Bengaluru,Gujarat Titans,High scoring venue,172
+98,9.5,3,10.32,Rajasthan Royals,Royal Challengers Bengaluru,Low scoring venue,214
+64,8.33,0,7.68,Chennai Super Kings,Rajasthan Royals,Low scoring venue,155
+168,17.33,8,9.69,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,200
+71,10.17,7,6.98,Punjab Kings,Kolkata Knight Riders,High scoring venue,152
+136,14.17,3,9.6,Chennai Super Kings,Mumbai Indians,Low scoring venue,200
+62,14.67,5,4.23,Lucknow Super Giants,Mumbai Indians,Low scoring venue,73
+78,13.33,6,5.85,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,101
+94,10.83,4,8.68,Rajasthan Royals,Royal Challengers Bengaluru,Average scoring venue,150
+92,13.0,3,7.08,Delhi Capitals,Mumbai Indians,Average scoring venue,144
+36,3.67,1,9.82,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,208
+111,12.5,3,8.88,Delhi Capitals,Rajasthan Royals,High scoring venue,186
+95,11.17,2,8.51,Gujarat Titans,Royal Challengers Bengaluru,Average scoring venue,168
+52,5.83,0,8.91,Delhi Capitals,Punjab Kings,Low scoring venue,162
+193,17.67,2,10.92,Rajasthan Royals,Kolkata Knight Riders,Average scoring venue,209
+75,7.0,2,10.71,Gujarat Titans,Sunrisers Hyderabad,Average scoring venue,205
+113,14.0,7,8.07,Gujarat Titans,Royal Challengers Bengaluru,Average scoring venue,159
+111,17.5,3,6.34,Mumbai Indians,Kolkata Knight Riders,Low scoring venue,112
+69,9.67,4,7.14,Mumbai Indians,Chennai Super Kings,Low scoring venue,121
+98,15.67,2,6.26,Sunrisers Hyderabad,Mumbai Indians,High scoring venue,122
+38,5.17,1,7.35,Kolkata Knight Riders,Lucknow Super Giants,Average scoring venue,145
+98,10.67,2,9.19,Mumbai Indians,Gujarat Titans,High scoring venue,193
+48,4.83,0,9.93,Chennai Super Kings,Punjab Kings,Low scoring venue,196
+115,15.83,3,7.26,Delhi Capitals,Kolkata Knight Riders,Low scoring venue,135
+54,13.5,2,4.0,Sunrisers Hyderabad,Kolkata Knight Riders,High scoring venue,99
+87,15.67,1,5.55,Royal Challengers Bengaluru,Sunrisers Hyderabad,Low scoring venue,102
+71,7.33,2,9.68,Punjab Kings,Mumbai Indians,Average scoring venue,204
+61,8.83,5,6.91,Mumbai Indians,Delhi Capitals,Low scoring venue,124
+32,4.0,0,8.0,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,122
+75,6.33,2,11.84,Chennai Super Kings,Delhi Capitals,High scoring venue,229
+71,5.5,4,12.91,Royal Challengers Bengaluru,Lucknow Super Giants,High scoring venue,241
+164,19.0,5,8.63,Royal Challengers Bengaluru,Lucknow Super Giants,High scoring venue,175
+149,15.5,8,9.61,Gujarat Titans,Rajasthan Royals,High scoring venue,199
+41,4.5,2,9.11,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,189
+59,7.67,3,7.7,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,156
+93,19.0,4,4.89,Rajasthan Royals,Punjab Kings,Average scoring venue,93
+178,19.5,1,9.13,Punjab Kings,Mumbai Indians,Average scoring venue,178
+136,13.33,3,10.2,Kolkata Knight Riders,Sunrisers Hyderabad,High scoring venue,218
+92,11.5,7,8.0,Mumbai Indians,Rajasthan Royals,High scoring venue,142
+107,16.33,4,6.55,Delhi Capitals,Sunrisers Hyderabad,Average scoring venue,132
+112,18.67,0,6.0,Gujarat Titans,Royal Challengers Bengaluru,Average scoring venue,112
+85,7.33,0,11.59,Rajasthan Royals,Punjab Kings,Average scoring venue,220
+32,4.83,2,6.62,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,134
+42,5.0,4,8.4,Chennai Super Kings,Royal Challengers Bengaluru,High scoring venue,136
+77,14.5,3,5.31,Mumbai Indians,Chennai Super Kings,Average scoring venue,102
+23,4.67,3,4.93,Punjab Kings,Kolkata Knight Riders,Average scoring venue,114
+67,9.67,2,6.93,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,135
+37,4.83,3,7.66,Punjab Kings,Chennai Super Kings,Low scoring venue,141
+103,8.17,5,12.61,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,211
+146,17.33,5,8.42,Delhi Capitals,Kolkata Knight Riders,High scoring venue,181
+52,10.17,7,5.11,Chennai Super Kings,Lucknow Super Giants,High scoring venue,89
+73,11.33,0,6.44,Gujarat Titans,Kolkata Knight Riders,Low scoring venue,141
+64,9.33,6,6.86,Lucknow Super Giants,Royal Challengers Bengaluru,Low scoring venue,126
+86,8.83,0,9.74,Mumbai Indians,Delhi Capitals,Average scoring venue,215
+136,16.83,7,8.08,Gujarat Titans,Royal Challengers Bengaluru,Average scoring venue,160
+40,3.0,0,13.33,Gujarat Titans,Chennai Super Kings,High scoring venue,233
+135,19.0,1,7.11,Lucknow Super Giants,Mumbai Indians,Low scoring venue,139
+68,9.0,1,7.56,Gujarat Titans,Punjab Kings,Average scoring venue,174
+67,8.83,2,7.58,Rajasthan Royals,Chennai Super Kings,Average scoring venue,139
+127,12.17,3,10.44,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,207
+63,10.83,1,5.82,Delhi Capitals,Sunrisers Hyderabad,Average scoring venue,113
+78,13.33,0,5.85,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,95
+30,6.17,5,4.86,Delhi Capitals,Rajasthan Royals,High scoring venue,91
+43,3.67,0,11.73,Mumbai Indians,Delhi Capitals,Low scoring venue,217
+174,19.0,1,9.16,Punjab Kings,Lucknow Super Giants,High scoring venue,185
+26,3.5,3,7.43,Rajasthan Royals,Mumbai Indians,Average scoring venue,164
+147,14.67,6,10.02,Sunrisers Hyderabad,Kolkata Knight Riders,Average scoring venue,192
+163,19.83,0,8.22,Delhi Capitals,Kolkata Knight Riders,High scoring venue,163
+25,3.67,0,6.82,Rajasthan Royals,Delhi Capitals,Low scoring venue,111
+100,11.67,0,8.57,Rajasthan Royals,Royal Challengers Bengaluru,Average scoring venue,170
+151,18.0,0,8.39,Mumbai Indians,Chennai Super Kings,High scoring venue,187
+108,14.83,4,7.28,Chennai Super Kings,Delhi Capitals,Average scoring venue,150
+97,15.17,3,6.4,Gujarat Titans,Lucknow Super Giants,Low scoring venue,120
+118,16.33,5,7.22,Mumbai Indians,Gujarat Titans,Low scoring venue,120
+39,4.83,0,8.07,Rajasthan Royals,Royal Challengers Bengaluru,Average scoring venue,128
+84,10.33,0,8.13,Punjab Kings,Lucknow Super Giants,Average scoring venue,173
+97,13.67,8,7.1,Kolkata Knight Riders,Lucknow Super Giants,Average scoring venue,128
+126,14.5,6,8.69,Royal Challengers Bengaluru,Rajasthan Royals,High scoring venue,199
+82,8.83,5,9.28,Rajasthan Royals,Mumbai Indians,Average scoring venue,164
+111,12.0,0,9.25,Kolkata Knight Riders,Gujarat Titans,Average scoring venue,181
+137,14.5,8,9.45,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,190
+46,10.67,6,4.31,Punjab Kings,Mumbai Indians,High scoring venue,87
+108,15.67,5,6.89,Chennai Super Kings,Rajasthan Royals,Low scoring venue,112
+174,18.33,0,9.49,Kolkata Knight Riders,Chennai Super Kings,High scoring venue,185
+47,3.33,1,14.1,Royal Challengers Bengaluru,Punjab Kings,Average scoring venue,220
+140,19.5,3,7.18,Royal Challengers Bengaluru,Rajasthan Royals,Average scoring venue,154
+121,14.17,5,8.54,Kolkata Knight Riders,Gujarat Titans,High scoring venue,169
+31,3.83,0,8.09,Rajasthan Royals,Lucknow Super Giants,High scoring venue,112
+67,7.67,3,8.74,Mumbai Indians,Punjab Kings,High scoring venue,174
+33,3.33,2,9.9,Mumbai Indians,Gujarat Titans,High scoring venue,188
+138,16.83,5,8.2,Rajasthan Royals,Gujarat Titans,High scoring venue,168
+83,13.0,0,6.38,Delhi Capitals,Lucknow Super Giants,High scoring venue,125
+88,9.0,5,9.78,Punjab Kings,Royal Challengers Bengaluru,Average scoring venue,198
+47,5.5,3,8.55,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,183
+100,14.67,6,6.82,Punjab Kings,Lucknow Super Giants,Average scoring venue,155
+14,4.5,0,3.11,Mumbai Indians,Chennai Super Kings,Low scoring venue,66
+110,14.0,0,7.86,Mumbai Indians,Chennai Super Kings,Low scoring venue,164
+23,4.5,2,5.11,Punjab Kings,Sunrisers Hyderabad,High scoring venue,103
+63,5.67,4,11.12,Sunrisers Hyderabad,Kolkata Knight Riders,Average scoring venue,243
+72,14.33,7,5.02,Delhi Capitals,Chennai Super Kings,Average scoring venue,105
+90,9.33,0,9.64,Royal Challengers Bengaluru,Gujarat Titans,Low scoring venue,142
+61,4.83,4,12.62,Kolkata Knight Riders,Gujarat Titans,Low scoring venue,229
+165,19.67,1,8.39,Delhi Capitals,Gujarat Titans,Low scoring venue,165
+125,19.17,6,6.52,Chennai Super Kings,Lucknow Super Giants,High scoring venue,143
+93,14.5,3,6.41,Gujarat Titans,Punjab Kings,Low scoring venue,131
+41,3.83,3,10.7,Lucknow Super Giants,Sunrisers Hyderabad,Average scoring venue,218
+90,18.67,8,4.82,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,102
+93,11.5,1,8.09,Lucknow Super Giants,Delhi Capitals,Low scoring venue,126
+165,16.5,1,10.0,Mumbai Indians,Kolkata Knight Riders,High scoring venue,223
+53,5.33,2,9.94,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,228
+100,11.67,1,8.57,Chennai Super Kings,Mumbai Indians,High scoring venue,189
+55,14.5,7,3.79,Rajasthan Royals,Sunrisers Hyderabad,Low scoring venue,78
+127,17.0,1,7.47,Gujarat Titans,Chennai Super Kings,Average scoring venue,141
+100,13.0,4,7.69,Kolkata Knight Riders,Delhi Capitals,High scoring venue,178
+138,18.67,8,7.39,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,138
+112,15.17,4,7.38,Sunrisers Hyderabad,Chennai Super Kings,Average scoring venue,165
+74,8.83,5,8.38,Punjab Kings,Sunrisers Hyderabad,Low scoring venue,168
+161,17.17,0,9.38,Delhi Capitals,Mumbai Indians,High scoring venue,185
+199,19.0,3,10.47,Punjab Kings,Royal Challengers Bengaluru,Low scoring venue,199
+54,12.5,8,4.32,Chennai Super Kings,Mumbai Indians,High scoring venue,97
+106,13.83,2,7.66,Lucknow Super Giants,Gujarat Titans,Average scoring venue,127
+65,12.5,7,5.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,89
+93,16.0,3,5.81,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,135
+31,6.0,3,5.17,Lucknow Super Giants,Royal Challengers Bengaluru,Average scoring venue,99
+80,13.0,7,6.15,Gujarat Titans,Delhi Capitals,High scoring venue,138
+190,16.17,3,11.75,Chennai Super Kings,Mumbai Indians,Average scoring venue,222
+49,6.67,5,7.35,Royal Challengers Bengaluru,Mumbai Indians,High scoring venue,149
+69,11.0,5,6.27,Rajasthan Royals,Kolkata Knight Riders,Average scoring venue,124
+42,8.0,2,5.25,Gujarat Titans,Royal Challengers Bengaluru,Average scoring venue,137
+142,17.67,3,8.04,Punjab Kings,Lucknow Super Giants,High scoring venue,176
+128,12.67,5,10.11,Lucknow Super Giants,Kolkata Knight Riders,High scoring venue,208
+68,9.5,6,7.16,Royal Challengers Bengaluru,Punjab Kings,Low scoring venue,125
+54,8.5,1,6.35,Chennai Super Kings,Punjab Kings,Low scoring venue,133
+58,6.33,5,9.16,Rajasthan Royals,Royal Challengers Bengaluru,Low scoring venue,184
+123,17.5,8,7.03,Royal Challengers Bengaluru,Mumbai Indians,High scoring venue,143
+121,13.5,4,8.96,Mumbai Indians,Chennai Super Kings,Low scoring venue,175
+63,10.17,2,6.2,Delhi Capitals,Royal Challengers Bengaluru,Low scoring venue,145
+114,12.83,1,8.88,Sunrisers Hyderabad,Kolkata Knight Riders,Average scoring venue,165
+138,16.17,0,8.54,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,164
+33,7.33,5,4.5,Royal Challengers Bengaluru,Mumbai Indians,Average scoring venue,81
+47,5.67,0,8.29,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,150
+37,5.33,3,6.94,Delhi Capitals,Sunrisers Hyderabad,High scoring venue,137
+109,12.5,3,8.72,Royal Challengers Bengaluru,Kolkata Knight Riders,High scoring venue,176
+61,8.67,5,7.04,Royal Challengers Bengaluru,Mumbai Indians,High scoring venue,171
+75,11.67,0,6.43,Delhi Capitals,Chennai Super Kings,Low scoring venue,125
+129,17.17,1,7.51,Mumbai Indians,Gujarat Titans,Low scoring venue,147
+133,17.33,4,7.67,Delhi Capitals,Lucknow Super Giants,Low scoring venue,142
+35,4.0,3,8.75,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,196
+91,8.33,5,10.92,Delhi Capitals,Rajasthan Royals,Low scoring venue,209
+124,17.67,8,7.02,Mumbai Indians,Chennai Super Kings,Low scoring venue,124
+57,7.33,3,7.77,Lucknow Super Giants,Chennai Super Kings,High scoring venue,195
+182,19.83,6,9.18,Lucknow Super Giants,Mumbai Indians,Low scoring venue,184
+116,16.33,7,7.1,Rajasthan Royals,Lucknow Super Giants,Low scoring venue,131
+38,4.33,4,8.77,Gujarat Titans,Lucknow Super Giants,High scoring venue,182
+163,17.5,3,9.31,Kolkata Knight Riders,Chennai Super Kings,Low scoring venue,200
+17,3.67,2,4.64,Lucknow Super Giants,Sunrisers Hyderabad,Low scoring venue,89
+105,11.83,2,8.87,Lucknow Super Giants,Delhi Capitals,High scoring venue,208
+95,11.0,7,8.64,Delhi Capitals,Lucknow Super Giants,Low scoring venue,150
+71,8.0,0,8.88,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,200
+64,6.67,1,9.6,Mumbai Indians,Delhi Capitals,Low scoring venue,161
+111,14.67,4,7.57,Gujarat Titans,Sunrisers Hyderabad,High scoring venue,144
+56,5.33,3,10.5,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,219
+95,16.5,2,5.76,Lucknow Super Giants,Gujarat Titans,Average scoring venue,104
+110,14.0,5,7.86,Delhi Capitals,Gujarat Titans,High scoring venue,160
+63,4.0,0,15.75,Lucknow Super Giants,Royal Challengers Bengaluru,High scoring venue,252
+71,9.5,2,7.47,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,151
+59,8.33,4,7.08,Delhi Capitals,Chennai Super Kings,Average scoring venue,161
+91,8.5,2,10.71,Punjab Kings,Rajasthan Royals,High scoring venue,213
+30,3.5,1,8.57,Delhi Capitals,Mumbai Indians,Average scoring venue,159
+137,18.33,4,7.47,Rajasthan Royals,Kolkata Knight Riders,Low scoring venue,140
+93,16.17,7,5.75,Mumbai Indians,Royal Challengers Bengaluru,Average scoring venue,108
+132,16.83,0,7.84,Gujarat Titans,Royal Challengers Bengaluru,High scoring venue,189
+36,4.17,1,8.64,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,182
+92,10.83,3,8.49,Punjab Kings,Lucknow Super Giants,Low scoring venue,131
+119,16.0,8,7.44,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,149
+17,3.33,0,5.1,Lucknow Super Giants,Delhi Capitals,High scoring venue,139
+100,15.5,6,6.45,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,128
+144,19.0,1,7.58,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,151
+107,12.5,7,8.56,Kolkata Knight Riders,Chennai Super Kings,High scoring venue,184
+90,11.83,1,7.61,Gujarat Titans,Delhi Capitals,High scoring venue,186
+100,10.0,5,10.0,Rajasthan Royals,Royal Challengers Bengaluru,Average scoring venue,188
+102,13.5,1,7.56,Mumbai Indians,Gujarat Titans,Low scoring venue,126
+142,16.0,5,8.88,Delhi Capitals,Kolkata Knight Riders,Low scoring venue,155
+142,17.33,6,8.19,Lucknow Super Giants,Mumbai Indians,Low scoring venue,154
+132,13.0,4,10.15,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,204
+45,4.17,0,10.8,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,227
+20,3.83,3,5.22,Delhi Capitals,Gujarat Titans,High scoring venue,127
+77,10.33,2,7.45,Rajasthan Royals,Kolkata Knight Riders,Low scoring venue,134
+61,5.83,0,10.46,Gujarat Titans,Lucknow Super Giants,High scoring venue,223
+63,12.0,1,5.25,Sunrisers Hyderabad,Chennai Super Kings,High scoring venue,124
+67,9.5,0,7.05,Kolkata Knight Riders,Sunrisers Hyderabad,Low scoring venue,147
+38,9.33,4,4.07,Delhi Capitals,Rajasthan Royals,High scoring venue,103
+71,9.33,0,7.61,Delhi Capitals,Mumbai Indians,Low scoring venue,154
+61,9.83,2,6.2,Mumbai Indians,Rajasthan Royals,Average scoring venue,121
+153,18.5,7,8.27,Sunrisers Hyderabad,Chennai Super Kings,High scoring venue,184
+101,14.67,8,6.89,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,133
+188,19.83,0,9.48,Rajasthan Royals,Lucknow Super Giants,Low scoring venue,188
+46,5.0,3,9.2,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,169
+68,9.33,6,7.29,Kolkata Knight Riders,Gujarat Titans,Average scoring venue,127
+33,5.33,1,6.19,Sunrisers Hyderabad,Punjab Kings,Average scoring venue,138
+62,13.83,6,4.48,Delhi Capitals,Punjab Kings,High scoring venue,98
+70,8.67,3,8.08,Punjab Kings,Royal Challengers Bengaluru,Low scoring venue,164
+124,16.0,6,7.75,Royal Challengers Bengaluru,Delhi Capitals,Average scoring venue,156
+32,4.17,3,7.68,Delhi Capitals,Rajasthan Royals,Average scoring venue,137
+122,13.0,7,9.38,Punjab Kings,Chennai Super Kings,High scoring venue,199
+84,10.33,2,8.13,Lucknow Super Giants,Gujarat Titans,Low scoring venue,131
+16,4.83,2,3.31,Delhi Capitals,Rajasthan Royals,High scoring venue,90
+47,6.0,4,7.83,Kolkata Knight Riders,Chennai Super Kings,Average scoring venue,174
+115,12.33,3,9.32,Kolkata Knight Riders,Punjab Kings,Average scoring venue,185
+48,4.17,3,11.52,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,195
+92,7.17,1,12.84,Lucknow Super Giants,Delhi Capitals,Average scoring venue,240
+98,12.33,1,7.95,Mumbai Indians,Kolkata Knight Riders,Low scoring venue,153
+50,6.33,4,7.89,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,164
+108,18.0,7,6.0,Kolkata Knight Riders,Royal Challengers Bengaluru,High scoring venue,129
+52,7.17,3,7.26,Lucknow Super Giants,Delhi Capitals,Average scoring venue,124
+81,12.33,2,6.57,Mumbai Indians,Delhi Capitals,High scoring venue,140
+132,16.83,8,7.84,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,132
+143,19.83,0,7.21,Punjab Kings,Sunrisers Hyderabad,High scoring venue,143
+134,19.0,2,7.05,Royal Challengers Bengaluru,Gujarat Titans,Average scoring venue,134
+85,9.67,1,8.79,Sunrisers Hyderabad,Royal Challengers Bengaluru,Low scoring venue,180
+100,12.33,4,8.11,Kolkata Knight Riders,Rajasthan Royals,Average scoring venue,166
+38,3.83,0,9.91,Sunrisers Hyderabad,Rajasthan Royals,High scoring venue,227
+97,13.33,8,7.27,Mumbai Indians,Rajasthan Royals,Average scoring venue,130
+81,9.83,1,8.24,Royal Challengers Bengaluru,Sunrisers Hyderabad,Low scoring venue,138
+134,17.67,0,7.58,Chennai Super Kings,Lucknow Super Giants,High scoring venue,158
+115,19.17,8,6.0,Kolkata Knight Riders,Sunrisers Hyderabad,Low scoring venue,115
+173,19.5,8,8.87,Mumbai Indians,Gujarat Titans,Low scoring venue,173
+149,15.17,5,9.82,Rajasthan Royals,Punjab Kings,Average scoring venue,192
+41,8.0,0,5.12,Lucknow Super Giants,Royal Challengers Bengaluru,High scoring venue,109
+88,10.17,4,8.66,Punjab Kings,Lucknow Super Giants,High scoring venue,187
+78,9.0,6,8.67,Royal Challengers Bengaluru,Gujarat Titans,Low scoring venue,136
+90,9.0,1,10.0,Chennai Super Kings,Lucknow Super Giants,Low scoring venue,205
+48,7.83,1,6.13,Chennai Super Kings,Kolkata Knight Riders,Low scoring venue,88
+131,18.5,3,7.08,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,143
+82,12.67,8,6.47,Delhi Capitals,Kolkata Knight Riders,Low scoring venue,108
+165,19.67,8,8.39,Mumbai Indians,Gujarat Titans,High scoring venue,188
+110,16.5,3,6.67,Delhi Capitals,Rajasthan Royals,High scoring venue,146
+67,7.33,1,9.14,Punjab Kings,Rajasthan Royals,High scoring venue,204
+126,13.67,0,9.22,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,198
+66,9.33,2,7.07,Royal Challengers Bengaluru,Lucknow Super Giants,Low scoring venue,136
+59,6.33,3,9.32,Sunrisers Hyderabad,Mumbai Indians,Low scoring venue,176
+53,6.67,4,7.95,Rajasthan Royals,Punjab Kings,High scoring venue,135
+94,17.17,7,5.48,Rajasthan Royals,Punjab Kings,High scoring venue,132
+33,4.5,0,7.33,Sunrisers Hyderabad,Gujarat Titans,High scoring venue,177
+146,14.0,5,10.43,Rajasthan Royals,Mumbai Indians,Low scoring venue,219
+47,8.5,0,5.53,Gujarat Titans,Chennai Super Kings,High scoring venue,120
+107,15.83,2,6.76,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,141
+93,13.0,0,7.15,Punjab Kings,Royal Challengers Bengaluru,High scoring venue,150
+95,9.83,4,9.66,Kolkata Knight Riders,Gujarat Titans,Low scoring venue,175
+66,5.67,0,11.65,Delhi Capitals,Lucknow Super Giants,Low scoring venue,194
+126,16.83,0,7.49,Lucknow Super Giants,Royal Challengers Bengaluru,High scoring venue,145
+26,5.5,0,4.73,Sunrisers Hyderabad,Chennai Super Kings,Low scoring venue,68
+41,6.0,3,6.83,Chennai Super Kings,Kolkata Knight Riders,Average scoring venue,115
+113,17.67,2,6.4,Gujarat Titans,Punjab Kings,Average scoring venue,146
+141,18.67,6,7.55,Gujarat Titans,Lucknow Super Giants,High scoring venue,170
+135,17.67,2,7.64,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,144
+118,16.33,1,7.22,Rajasthan Royals,Punjab Kings,Average scoring venue,141
+65,11.5,6,5.65,Lucknow Super Giants,Sunrisers Hyderabad,Average scoring venue,100
+34,5.17,4,6.58,Sunrisers Hyderabad,Punjab Kings,Low scoring venue,119
+41,6.5,1,6.31,Sunrisers Hyderabad,Gujarat Titans,Average scoring venue,142
+207,19.83,7,10.44,Rajasthan Royals,Lucknow Super Giants,Low scoring venue,207
+26,3.67,1,7.09,Chennai Super Kings,Royal Challengers Bengaluru,High scoring venue,172
+188,19.5,5,9.64,Rajasthan Royals,Lucknow Super Giants,High scoring venue,199
+85,17.17,1,4.95,Mumbai Indians,Royal Challengers Bengaluru,Average scoring venue,88
+166,15.33,0,10.83,Sunrisers Hyderabad,Chennai Super Kings,High scoring venue,219
+69,8.83,4,7.81,Sunrisers Hyderabad,Chennai Super Kings,Average scoring venue,135
+71,9.5,3,7.47,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,129
+77,11.0,1,7.0,Punjab Kings,Gujarat Titans,Low scoring venue,142
+84,10.0,6,8.4,Sunrisers Hyderabad,Lucknow Super Giants,Average scoring venue,167
+63,9.83,5,6.41,Punjab Kings,Sunrisers Hyderabad,High scoring venue,116
+53,7.5,4,7.07,Gujarat Titans,Rajasthan Royals,High scoring venue,155
+30,3.83,2,7.83,Mumbai Indians,Lucknow Super Giants,High scoring venue,189
+60,10.33,3,5.81,Delhi Capitals,Punjab Kings,Low scoring venue,94
+121,12.5,1,9.68,Kolkata Knight Riders,Gujarat Titans,High scoring venue,197
+80,10.33,4,7.74,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,155
+31,3.0,2,10.33,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,219
+21,5.17,0,4.06,Gujarat Titans,Mumbai Indians,Low scoring venue,80
+61,11.0,2,5.55,Mumbai Indians,Gujarat Titans,High scoring venue,111
+59,6.33,0,9.32,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,199
+75,9.0,6,8.33,Mumbai Indians,Lucknow Super Giants,Low scoring venue,138
+60,6.67,1,9.0,Delhi Capitals,Chennai Super Kings,Low scoring venue,140
+123,19.5,7,6.31,Lucknow Super Giants,Punjab Kings,Average scoring venue,123
+94,13.0,6,7.23,Chennai Super Kings,Royal Challengers Bengaluru,Average scoring venue,106
+36,5.5,1,6.55,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,141
+69,5.83,4,11.83,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,215
+44,6.67,2,6.6,Punjab Kings,Gujarat Titans,Low scoring venue,102
+94,11.33,2,8.29,Punjab Kings,Gujarat Titans,Low scoring venue,148
+70,9.33,6,7.5,Lucknow Super Giants,Rajasthan Royals,Low scoring venue,136
+124,13.5,0,9.19,Sunrisers Hyderabad,Chennai Super Kings,High scoring venue,191
+32,4.17,4,7.68,Lucknow Super Giants,Chennai Super Kings,Low scoring venue,130
+98,10.83,3,9.05,Kolkata Knight Riders,Sunrisers Hyderabad,Low scoring venue,162
+33,3.67,2,9.0,Punjab Kings,Mumbai Indians,High scoring venue,177
+139,18.0,5,7.72,Royal Challengers Bengaluru,Delhi Capitals,High scoring venue,162
+100,12.83,5,7.79,Delhi Capitals,Gujarat Titans,High scoring venue,172
+77,12.83,7,6.0,Mumbai Indians,Delhi Capitals,Low scoring venue,101
+81,9.83,3,8.24,Lucknow Super Giants,Gujarat Titans,High scoring venue,182
+117,13.0,5,9.0,Mumbai Indians,Punjab Kings,High scoring venue,190
+171,18.33,0,9.33,Gujarat Titans,Kolkata Knight Riders,Low scoring venue,171
+59,7.33,1,8.05,Punjab Kings,Lucknow Super Giants,Average scoring venue,172
+130,19.0,2,6.84,Delhi Capitals,Rajasthan Royals,High scoring venue,150
+91,12.67,0,7.18,Kolkata Knight Riders,Delhi Capitals,Low scoring venue,117
+37,3.83,3,9.65,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,193
+61,7.17,1,8.51,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,177
+90,12.83,6,7.01,Sunrisers Hyderabad,Rajasthan Royals,Average scoring venue,141
+48,4.83,3,9.93,Delhi Capitals,Lucknow Super Giants,Low scoring venue,178
+73,7.67,1,9.52,Rajasthan Royals,Lucknow Super Giants,Low scoring venue,153
+24,6.67,5,3.6,Kolkata Knight Riders,Punjab Kings,High scoring venue,81
+118,15.83,6,7.45,Royal Challengers Bengaluru,Chennai Super Kings,Low scoring venue,128
+127,14.17,1,8.96,Lucknow Super Giants,Punjab Kings,Low scoring venue,166
+86,6.83,4,12.59,Kolkata Knight Riders,Lucknow Super Giants,Low scoring venue,211
+10,6.67,1,1.5,Gujarat Titans,Rajasthan Royals,Average scoring venue,52
+81,12.17,2,6.66,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,115
+139,19.83,5,7.01,Chennai Super Kings,Lucknow Super Giants,Low scoring venue,139
+17,3.5,2,4.86,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,93
+61,11.17,6,5.46,Kolkata Knight Riders,Punjab Kings,Average scoring venue,105
+91,11.17,5,8.15,Rajasthan Royals,Lucknow Super Giants,Low scoring venue,134
+125,17.67,1,7.08,Royal Challengers Bengaluru,Delhi Capitals,High scoring venue,148
+30,4.33,1,6.92,Kolkata Knight Riders,Mumbai Indians,Low scoring venue,132
+99,7.17,0,13.81,Sunrisers Hyderabad,Punjab Kings,Low scoring venue,237
+51,6.17,4,8.27,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,130
+72,10.33,1,6.97,Mumbai Indians,Delhi Capitals,Low scoring venue,130
+167,16.0,4,10.44,Sunrisers Hyderabad,Delhi Capitals,Average scoring venue,226
+79,13.0,8,6.08,Punjab Kings,Royal Challengers Bengaluru,Low scoring venue,122
+41,10.5,4,3.9,Kolkata Knight Riders,Chennai Super Kings,Low scoring venue,65
+54,7.17,2,7.53,Chennai Super Kings,Rajasthan Royals,Low scoring venue,141
+46,9.5,5,4.84,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,82
+162,18.67,8,8.68,Delhi Capitals,Mumbai Indians,High scoring venue,179
+155,15.33,5,10.11,Gujarat Titans,Chennai Super Kings,High scoring venue,222
+157,18.0,4,8.72,Chennai Super Kings,Punjab Kings,Low scoring venue,165
+130,18.5,6,7.03,Punjab Kings,Chennai Super Kings,Average scoring venue,135
+235,16.67,0,14.1,Chennai Super Kings,Royal Challengers Bengaluru,Average scoring venue,271
+206,16.5,0,12.48,Mumbai Indians,Gujarat Titans,High scoring venue,256
+113,11.33,0,9.97,Delhi Capitals,Punjab Kings,High scoring venue,196
+83,13.83,0,6.0,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,128
+174,17.83,6,9.76,Chennai Super Kings,Lucknow Super Giants,High scoring venue,227
+65,8.0,1,8.12,Mumbai Indians,Sunrisers Hyderabad,Low scoring venue,126
+91,9.0,1,10.11,Gujarat Titans,Delhi Capitals,Average scoring venue,210
+35,4.67,2,7.5,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,116
+74,14.17,0,5.22,Kolkata Knight Riders,Royal Challengers Bengaluru,Average scoring venue,92
+84,11.33,3,7.41,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,177
+36,5.0,0,7.2,Gujarat Titans,Lucknow Super Giants,Average scoring venue,159
+88,12.0,1,7.33,Gujarat Titans,Mumbai Indians,Low scoring venue,118
+41,5.33,0,7.69,Mumbai Indians,Chennai Super Kings,Average scoring venue,163
+32,3.33,3,9.6,Lucknow Super Giants,Kolkata Knight Riders,Average scoring venue,211
+157,18.67,4,8.41,Rajasthan Royals,Chennai Super Kings,Low scoring venue,158
+112,16.17,2,6.93,Punjab Kings,Chennai Super Kings,Average scoring venue,132
+106,14.83,0,7.15,Lucknow Super Giants,Mumbai Indians,Low scoring venue,146
+104,12.5,2,8.32,Lucknow Super Giants,Punjab Kings,Average scoring venue,168
+97,16.67,6,5.82,Rajasthan Royals,Sunrisers Hyderabad,High scoring venue,132
+104,7.67,0,13.57,Rajasthan Royals,Punjab Kings,High scoring venue,260
+187,18.5,2,10.11,Rajasthan Royals,Chennai Super Kings,High scoring venue,206
+119,11.67,7,10.2,Lucknow Super Giants,Delhi Capitals,High scoring venue,200
+170,19.0,2,8.95,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,183
+53,7.5,5,7.07,Sunrisers Hyderabad,Punjab Kings,Average scoring venue,131
+169,13.33,2,12.67,Lucknow Super Giants,Mumbai Indians,High scoring venue,263
+85,14.33,5,5.93,Punjab Kings,Chennai Super Kings,High scoring venue,114
+62,8.0,5,7.75,Sunrisers Hyderabad,Gujarat Titans,Average scoring venue,168
+84,8.5,2,9.88,Lucknow Super Giants,Sunrisers Hyderabad,High scoring venue,213
+155,17.5,7,8.86,Chennai Super Kings,Royal Challengers Bengaluru,Average scoring venue,176
+176,17.83,3,9.87,Delhi Capitals,Mumbai Indians,High scoring venue,219
+74,7.67,1,9.65,Delhi Capitals,Royal Challengers Bengaluru,Low scoring venue,194
+37,4.17,3,8.88,Chennai Super Kings,Royal Challengers Bengaluru,Average scoring venue,193
+114,19.5,3,5.85,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,114
+177,19.83,2,8.93,Chennai Super Kings,Kolkata Knight Riders,Average scoring venue,179
+26,4.5,1,5.78,Chennai Super Kings,Punjab Kings,Average scoring venue,134
+120,18.83,0,6.37,Delhi Capitals,Punjab Kings,Low scoring venue,123
+69,12.67,6,5.45,Chennai Super Kings,Gujarat Titans,Average scoring venue,107
+143,19.0,5,7.53,Sunrisers Hyderabad,Royal Challengers Bengaluru,Low scoring venue,159
+188,18.5,0,10.16,Kolkata Knight Riders,Punjab Kings,Low scoring venue,188
+41,5.0,4,8.2,Royal Challengers Bengaluru,Sunrisers Hyderabad,Low scoring venue,139
+24,3.5,2,6.86,Royal Challengers Bengaluru,Kolkata Knight Riders,Low scoring venue,146
+79,11.67,3,6.77,Royal Challengers Bengaluru,Mumbai Indians,Low scoring venue,120
+107,12.83,5,8.34,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,182
+84,18.5,2,4.54,Lucknow Super Giants,Kolkata Knight Riders,Average scoring venue,89
+121,15.33,4,7.89,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,166
+63,7.5,0,8.4,Mumbai Indians,Kolkata Knight Riders,High scoring venue,177
+62,7.67,5,8.09,Mumbai Indians,Delhi Capitals,Low scoring venue,148
+39,7.0,2,5.57,Mumbai Indians,Kolkata Knight Riders,High scoring venue,128
+115,13.0,2,8.85,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,195
+33,4.33,4,7.62,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,161
+78,13.17,3,5.92,Punjab Kings,Sunrisers Hyderabad,High scoring venue,131
+69,14.0,5,4.93,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,92
+41,5.83,1,7.03,Chennai Super Kings,Mumbai Indians,High scoring venue,139
+87,10.33,2,8.42,Gujarat Titans,Kolkata Knight Riders,High scoring venue,177
+19,4.17,2,4.56,Sunrisers Hyderabad,Kolkata Knight Riders,Low scoring venue,84
+41,10.5,5,3.9,Chennai Super Kings,Mumbai Indians,Average scoring venue,76
+95,14.17,8,6.71,Gujarat Titans,Kolkata Knight Riders,High scoring venue,140
+77,8.0,2,9.62,Rajasthan Royals,Kolkata Knight Riders,Average scoring venue,193
+129,18.83,8,6.85,Punjab Kings,Royal Challengers Bengaluru,Low scoring venue,129
+82,15.5,4,5.29,Lucknow Super Giants,Mumbai Indians,Average scoring venue,97
+15,4.0,1,3.75,Sunrisers Hyderabad,Royal Challengers Bengaluru,Average scoring venue,93
+33,4.0,4,8.25,Chennai Super Kings,Delhi Capitals,High scoring venue,181
+44,7.17,2,6.14,Kolkata Knight Riders,Chennai Super Kings,Average scoring venue,127
+32,5.17,0,6.19,Mumbai Indians,Lucknow Super Giants,High scoring venue,155
+74,5.33,2,13.88,Royal Challengers Bengaluru,Punjab Kings,Low scoring venue,231
+90,13.5,1,6.67,Delhi Capitals,Gujarat Titans,Low scoring venue,135
+139,16.17,4,8.6,Punjab Kings,Gujarat Titans,Low scoring venue,166
+71,11.5,2,6.17,Lucknow Super Giants,Chennai Super Kings,High scoring venue,129
+147,13.67,2,10.76,Kolkata Knight Riders,Punjab Kings,High scoring venue,230
+34,4.17,0,8.16,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,209
+49,5.33,0,9.19,Chennai Super Kings,Royal Challengers Bengaluru,Average scoring venue,193
+38,4.67,3,8.14,Gujarat Titans,Mumbai Indians,Average scoring venue,188
+76,11.67,1,6.51,Royal Challengers Bengaluru,Mumbai Indians,Average scoring venue,129
+114,14.33,2,7.95,Rajasthan Royals,Chennai Super Kings,Low scoring venue,140
+52,12.67,4,4.11,Rajasthan Royals,Mumbai Indians,High scoring venue,88
+104,10.67,1,9.75,Rajasthan Royals,Sunrisers Hyderabad,Average scoring venue,168
+56,4.67,4,12.0,Lucknow Super Giants,Royal Challengers Bengaluru,Average scoring venue,230
+40,5.83,3,6.86,Rajasthan Royals,Sunrisers Hyderabad,High scoring venue,133
+72,9.0,5,8.0,Royal Challengers Bengaluru,Gujarat Titans,Average scoring venue,157
+98,11.0,6,8.91,Sunrisers Hyderabad,Royal Challengers Bengaluru,Average scoring venue,179
+64,11.67,5,5.49,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,117
+76,13.5,6,5.63,Sunrisers Hyderabad,Rajasthan Royals,Low scoring venue,96
+112,10.17,4,11.02,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,193
+65,11.0,1,5.91,Royal Challengers Bengaluru,Chennai Super Kings,High scoring venue,137
+91,10.67,2,8.53,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,172
+47,5.33,0,8.81,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,177
+129,18.33,5,7.04,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,129
+130,17.33,6,7.5,Kolkata Knight Riders,Delhi Capitals,High scoring venue,166
+103,11.0,1,9.36,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,188
+29,4.33,1,6.69,Rajasthan Royals,Punjab Kings,Average scoring venue,137
+67,9.67,2,6.93,Chennai Super Kings,Delhi Capitals,Low scoring venue,147
+197,18.83,1,10.46,Sunrisers Hyderabad,Rajasthan Royals,Average scoring venue,202
+54,7.0,3,7.71,Punjab Kings,Rajasthan Royals,High scoring venue,153
+123,19.67,6,6.25,Royal Challengers Bengaluru,Mumbai Indians,Average scoring venue,124
+45,10.67,6,4.22,Gujarat Titans,Chennai Super Kings,Low scoring venue,72
+100,19.5,7,5.13,Delhi Capitals,Lucknow Super Giants,Average scoring venue,116
+29,3.33,3,8.7,Mumbai Indians,Delhi Capitals,Low scoring venue,155
+63,5.67,3,11.12,Delhi Capitals,Mumbai Indians,High scoring venue,218
+177,19.5,1,9.08,Sunrisers Hyderabad,Kolkata Knight Riders,Average scoring venue,188
+93,13.0,6,7.15,Kolkata Knight Riders,Sunrisers Hyderabad,High scoring venue,142
+93,10.83,3,8.58,Royal Challengers Bengaluru,Chennai Super Kings,Low scoring venue,147
+130,18.5,7,7.03,Rajasthan Royals,Lucknow Super Giants,High scoring venue,149
+18,3.5,3,5.14,Royal Challengers Bengaluru,Kolkata Knight Riders,Low scoring venue,93
+97,9.5,5,10.21,Rajasthan Royals,Gujarat Titans,Low scoring venue,172
+78,18.83,8,4.14,Mumbai Indians,Kolkata Knight Riders,Average scoring venue,79
+108,13.17,4,8.2,Gujarat Titans,Mumbai Indians,Low scoring venue,156
+30,4.83,1,6.21,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,119
+46,5.0,0,9.2,Chennai Super Kings,Delhi Capitals,Low scoring venue,160
+76,11.0,6,6.91,Lucknow Super Giants,Punjab Kings,Low scoring venue,128
+121,14.5,0,8.34,Royal Challengers Bengaluru,Kolkata Knight Riders,Low scoring venue,159
+158,15.5,5,10.19,Delhi Capitals,Chennai Super Kings,Low scoring venue,202
+50,6.5,1,7.69,Delhi Capitals,Punjab Kings,High scoring venue,150
+54,4.33,1,12.46,Chennai Super Kings,Gujarat Titans,Low scoring venue,231
+98,16.0,8,6.12,Chennai Super Kings,Rajasthan Royals,Average scoring venue,128
+94,15.67,8,6.0,Mumbai Indians,Chennai Super Kings,Low scoring venue,114
+35,3.33,3,10.5,Royal Challengers Bengaluru,Mumbai Indians,Low scoring venue,194
+71,8.5,6,8.35,Royal Challengers Bengaluru,Mumbai Indians,Low scoring venue,147
+92,12.5,8,7.36,Royal Challengers Bengaluru,Sunrisers Hyderabad,Low scoring venue,122
+59,8.5,6,6.94,Rajasthan Royals,Mumbai Indians,Low scoring venue,144
+142,15.5,1,9.16,Rajasthan Royals,Lucknow Super Giants,High scoring venue,207
+65,7.67,0,8.48,Royal Challengers Bengaluru,Delhi Capitals,Low scoring venue,200
+44,3.17,0,13.89,Punjab Kings,Delhi Capitals,High scoring venue,239
+62,7.33,3,8.45,Mumbai Indians,Rajasthan Royals,High scoring venue,157
+175,18.17,4,9.63,Kolkata Knight Riders,Lucknow Super Giants,Low scoring venue,175
+105,12.0,6,8.75,Lucknow Super Giants,Punjab Kings,Average scoring venue,159
+13,3.83,3,3.39,Delhi Capitals,Mumbai Indians,Average scoring venue,78
+48,6.17,5,7.78,Punjab Kings,Rajasthan Royals,High scoring venue,161
+19,4.33,2,4.38,Punjab Kings,Lucknow Super Giants,Low scoring venue,72
+73,9.17,6,7.96,Gujarat Titans,Lucknow Super Giants,Low scoring venue,137
+30,6.33,0,4.74,Lucknow Super Giants,Delhi Capitals,High scoring venue,104
+123,12.0,1,10.25,Royal Challengers Bengaluru,Chennai Super Kings,Low scoring venue,186
+106,12.67,0,8.37,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,158
+146,19.17,6,7.62,Sunrisers Hyderabad,Chennai Super Kings,Average scoring venue,146
+54,3.33,3,16.2,Lucknow Super Giants,Kolkata Knight Riders,High scoring venue,255
+94,14.67,6,6.41,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,134
+69,8.83,3,7.81,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,165
+130,15.67,1,8.3,Delhi Capitals,Mumbai Indians,High scoring venue,172
+71,8.83,3,8.04,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,177
+69,7.33,3,9.41,Gujarat Titans,Chennai Super Kings,High scoring venue,228
+102,9.67,4,10.55,Lucknow Super Giants,Chennai Super Kings,Low scoring venue,225
+92,12.0,7,7.67,Punjab Kings,Kolkata Knight Riders,Low scoring venue,151
+144,18.33,3,7.85,Gujarat Titans,Lucknow Super Giants,Average scoring venue,174
+143,18.17,7,7.87,Punjab Kings,Kolkata Knight Riders,High scoring venue,165
+37,10.5,0,3.52,Punjab Kings,Delhi Capitals,Low scoring venue,60
+118,19.5,5,6.05,Lucknow Super Giants,Mumbai Indians,Low scoring venue,119
+68,13.5,8,5.04,Kolkata Knight Riders,Delhi Capitals,Low scoring venue,84
+173,19.67,5,8.8,Rajasthan Royals,Punjab Kings,Low scoring venue,173
+64,9.0,3,7.11,Kolkata Knight Riders,Royal Challengers Bengaluru,Average scoring venue,161
+113,11.0,0,10.27,Kolkata Knight Riders,Punjab Kings,High scoring venue,215
+143,16.83,2,8.5,Delhi Capitals,Sunrisers Hyderabad,Average scoring venue,172
+148,15.83,7,9.35,Chennai Super Kings,Kolkata Knight Riders,Low scoring venue,178
+41,4.33,3,9.46,Punjab Kings,Kolkata Knight Riders,High scoring venue,210
+71,7.33,4,9.68,Punjab Kings,Sunrisers Hyderabad,High scoring venue,228
+120,17.5,0,6.86,Delhi Capitals,Gujarat Titans,Low scoring venue,134
+107,16.83,2,6.36,Lucknow Super Giants,Gujarat Titans,Average scoring venue,122
+122,18.33,3,6.65,Mumbai Indians,Lucknow Super Giants,Average scoring venue,140
+165,15.5,6,10.65,Chennai Super Kings,Gujarat Titans,Average scoring venue,206
+51,5.17,0,9.87,Sunrisers Hyderabad,Lucknow Super Giants,Average scoring venue,212
+23,7.0,1,3.29,Kolkata Knight Riders,Chennai Super Kings,Low scoring venue,59
+66,8.0,1,8.25,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,154
+152,13.67,0,11.12,Mumbai Indians,Gujarat Titans,Low scoring venue,204
+99,10.67,0,9.28,Kolkata Knight Riders,Gujarat Titans,High scoring venue,198
+158,14.17,3,11.15,Rajasthan Royals,Delhi Capitals,High scoring venue,236
+94,7.33,0,12.82,Gujarat Titans,Delhi Capitals,Low scoring venue,231
+97,12.5,4,7.76,Mumbai Indians,Kolkata Knight Riders,Average scoring venue,179
+29,5.0,3,5.8,Delhi Capitals,Lucknow Super Giants,Average scoring venue,115
+59,5.67,1,10.41,Gujarat Titans,Punjab Kings,Low scoring venue,203
+52,11.5,4,4.52,Mumbai Indians,Gujarat Titans,Average scoring venue,106
+89,19.83,6,4.49,Sunrisers Hyderabad,Gujarat Titans,Low scoring venue,89
+92,11.17,2,8.24,Gujarat Titans,Mumbai Indians,High scoring venue,177
+39,5.5,3,7.09,Gujarat Titans,Lucknow Super Giants,High scoring venue,179
+99,10.83,3,9.14,Chennai Super Kings,Mumbai Indians,Average scoring venue,192
+73,11.17,0,6.54,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,168
+91,10.17,4,8.95,Sunrisers Hyderabad,Punjab Kings,Average scoring venue,148
+56,9.5,5,5.89,Sunrisers Hyderabad,Chennai Super Kings,Low scoring venue,84
+45,5.0,4,9.0,Punjab Kings,Mumbai Indians,High scoring venue,235
+80,10.17,3,7.87,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,169
+56,6.0,1,9.33,Punjab Kings,Sunrisers Hyderabad,High scoring venue,214
+77,14.33,5,5.37,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,93
+86,6.67,0,12.9,Mumbai Indians,Gujarat Titans,Low scoring venue,220
+117,13.33,1,8.78,Rajasthan Royals,Delhi Capitals,Average scoring venue,167
+168,16.67,2,10.08,Delhi Capitals,Kolkata Knight Riders,Low scoring venue,187
+32,6.5,1,4.92,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,78
+69,8.5,5,8.12,Delhi Capitals,Punjab Kings,High scoring venue,143
+67,12.33,7,5.43,Punjab Kings,Royal Challengers Bengaluru,Average scoring venue,96
+102,12.0,0,8.5,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,148
+24,4.67,0,5.14,Delhi Capitals,Royal Challengers Bengaluru,Low scoring venue,77
+115,13.0,2,8.85,Royal Challengers Bengaluru,Kolkata Knight Riders,High scoring venue,200
+130,18.0,7,7.22,Lucknow Super Giants,Gujarat Titans,High scoring venue,149
+153,18.5,5,8.27,Lucknow Super Giants,Gujarat Titans,Average scoring venue,153
+80,10.5,4,7.62,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,163
+93,13.0,5,7.15,Rajasthan Royals,Sunrisers Hyderabad,High scoring venue,140
+110,13.17,6,8.35,Lucknow Super Giants,Chennai Super Kings,High scoring venue,174
+68,8.5,4,8.0,Chennai Super Kings,Delhi Capitals,Low scoring venue,166
+163,19.67,7,8.29,Gujarat Titans,Sunrisers Hyderabad,High scoring venue,169
+76,6.83,5,11.12,Lucknow Super Giants,Sunrisers Hyderabad,Low scoring venue,192
+107,14.17,7,7.55,Kolkata Knight Riders,Delhi Capitals,Average scoring venue,176
+82,8.17,3,10.04,Gujarat Titans,Rajasthan Royals,High scoring venue,198
+91,8.33,3,10.92,Royal Challengers Bengaluru,Chennai Super Kings,Low scoring venue,199
+89,16.17,4,5.51,Chennai Super Kings,Rajasthan Royals,High scoring venue,117
+37,4.83,1,7.66,Lucknow Super Giants,Gujarat Titans,Low scoring venue,144
+93,11.67,1,7.97,Delhi Capitals,Mumbai Indians,High scoring venue,177
+90,10.0,1,9.0,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,165
+40,5.67,0,7.06,Sunrisers Hyderabad,Punjab Kings,Average scoring venue,183
+142,15.33,3,9.26,Gujarat Titans,Royal Challengers Bengaluru,Low scoring venue,177
+60,10.5,2,5.71,Rajasthan Royals,Lucknow Super Giants,Average scoring venue,129
+92,8.83,2,10.42,Chennai Super Kings,Gujarat Titans,Average scoring venue,249
+74,13.67,8,5.41,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,78
+73,10.5,0,6.95,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,138
+64,8.0,1,8.0,Royal Challengers Bengaluru,Gujarat Titans,Low scoring venue,158
+90,10.0,7,9.0,Mumbai Indians,Royal Challengers Bengaluru,High scoring venue,199
+51,7.33,3,6.95,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,134
+57,10.5,7,5.43,Punjab Kings,Kolkata Knight Riders,High scoring venue,109
+78,7.5,2,10.4,Rajasthan Royals,Sunrisers Hyderabad,Low scoring venue,182
+47,6.67,1,7.05,Lucknow Super Giants,Gujarat Titans,Average scoring venue,180
+80,11.5,0,6.96,Punjab Kings,Delhi Capitals,Low scoring venue,98
+166,17.67,4,9.4,Sunrisers Hyderabad,Mumbai Indians,High scoring venue,204
+53,9.0,3,5.89,Chennai Super Kings,Rajasthan Royals,High scoring venue,133
+39,4.67,0,8.36,Delhi Capitals,Lucknow Super Giants,Low scoring venue,158
+131,14.33,3,9.14,Lucknow Super Giants,Punjab Kings,Average scoring venue,174
+123,17.67,0,6.96,Punjab Kings,Kolkata Knight Riders,High scoring venue,155
+198,18.5,7,10.7,Sunrisers Hyderabad,Lucknow Super Giants,Average scoring venue,199
+108,14.5,2,7.45,Rajasthan Royals,Royal Challengers Bengaluru,Average scoring venue,149
+145,16.17,1,8.97,Mumbai Indians,Rajasthan Royals,Low scoring venue,165
+32,5.33,0,6.0,Mumbai Indians,Sunrisers Hyderabad,High scoring venue,111
+73,9.83,5,7.42,Gujarat Titans,Delhi Capitals,High scoring venue,160
+105,12.83,0,8.18,Delhi Capitals,Kolkata Knight Riders,High scoring venue,162
+86,10.83,5,7.94,Chennai Super Kings,Gujarat Titans,Low scoring venue,148
+33,3.33,3,9.9,Royal Challengers Bengaluru,Gujarat Titans,Low scoring venue,190
+38,5.67,1,6.71,Chennai Super Kings,Rajasthan Royals,Average scoring venue,139
+119,12.0,0,9.92,Lucknow Super Giants,Delhi Capitals,Average scoring venue,218
+86,14.33,4,6.0,Mumbai Indians,Chennai Super Kings,Average scoring venue,114
+51,6.83,5,7.46,Mumbai Indians,Delhi Capitals,Average scoring venue,161
+120,14.17,4,8.47,Punjab Kings,Lucknow Super Giants,Low scoring venue,151
+66,6.17,2,10.7,Kolkata Knight Riders,Royal Challengers Bengaluru,Average scoring venue,230
+88,9.17,5,9.6,Royal Challengers Bengaluru,Rajasthan Royals,Low scoring venue,156
+74,12.17,0,6.08,Kolkata Knight Riders,Delhi Capitals,Low scoring venue,135
+111,15.17,7,7.32,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,159
+92,14.0,6,6.57,Lucknow Super Giants,Royal Challengers Bengaluru,High scoring venue,138
+140,18.67,0,7.5,Lucknow Super Giants,Punjab Kings,High scoring venue,176
+105,16.17,1,6.49,Sunrisers Hyderabad,Rajasthan Royals,Average scoring venue,121
+86,12.17,8,7.07,Rajasthan Royals,Lucknow Super Giants,High scoring venue,145
+125,12.5,7,10.0,Mumbai Indians,Lucknow Super Giants,High scoring venue,202
+75,7.0,4,10.71,Rajasthan Royals,Gujarat Titans,Average scoring venue,184
+85,11.0,7,7.73,Kolkata Knight Riders,Gujarat Titans,Low scoring venue,160
+123,18.17,7,6.77,Royal Challengers Bengaluru,Punjab Kings,Average scoring venue,129
+179,18.0,0,9.94,Gujarat Titans,Delhi Capitals,Average scoring venue,209
+147,18.0,8,8.17,Royal Challengers Bengaluru,Lucknow Super Giants,Low scoring venue,147
+110,11.17,6,9.85,Rajasthan Royals,Lucknow Super Giants,High scoring venue,189
+65,10.5,0,6.19,Punjab Kings,Royal Challengers Bengaluru,Average scoring venue,145
+14,5.33,1,2.62,Gujarat Titans,Kolkata Knight Riders,Low scoring venue,79
+91,14.17,0,6.42,Punjab Kings,Rajasthan Royals,Low scoring venue,133
+117,17.83,1,6.56,Gujarat Titans,Mumbai Indians,Low scoring venue,132
+51,5.67,1,9.0,Mumbai Indians,Lucknow Super Giants,Low scoring venue,165
+101,14.83,1,6.81,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,123
+148,19.17,6,7.72,Sunrisers Hyderabad,Royal Challengers Bengaluru,High scoring venue,167
+129,17.33,2,7.44,Chennai Super Kings,Lucknow Super Giants,Average scoring venue,156
+57,7.67,4,7.43,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,151
+127,15.33,5,8.28,Punjab Kings,Kolkata Knight Riders,Low scoring venue,172
+155,18.5,5,8.38,Sunrisers Hyderabad,Royal Challengers Bengaluru,Low scoring venue,157
+144,19.67,3,7.32,Delhi Capitals,Lucknow Super Giants,Low scoring venue,144
+107,12.0,1,8.92,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,178
+58,8.5,4,6.82,Gujarat Titans,Delhi Capitals,Average scoring venue,127
+87,10.33,0,8.42,Delhi Capitals,Lucknow Super Giants,High scoring venue,152
+150,18.83,4,7.96,Delhi Capitals,Chennai Super Kings,High scoring venue,152
+135,17.17,2,7.86,Delhi Capitals,Lucknow Super Giants,High scoring venue,189
+107,15.17,8,7.05,Gujarat Titans,Kolkata Knight Riders,High scoring venue,139
+155,17.0,7,9.12,Mumbai Indians,Kolkata Knight Riders,Average scoring venue,163
+79,14.33,0,5.51,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,98
+45,6.83,1,6.59,Gujarat Titans,Punjab Kings,Low scoring venue,117
+56,8.17,3,6.86,Rajasthan Royals,Gujarat Titans,Low scoring venue,106
+64,11.0,3,5.82,Royal Challengers Bengaluru,Gujarat Titans,Average scoring venue,93
+135,16.83,4,8.02,Royal Challengers Bengaluru,Sunrisers Hyderabad,High scoring venue,174
+49,6.33,0,7.74,Sunrisers Hyderabad,Lucknow Super Giants,Average scoring venue,201
+104,11.17,0,9.31,Chennai Super Kings,Mumbai Indians,Low scoring venue,168
+86,10.0,0,8.6,Delhi Capitals,Chennai Super Kings,High scoring venue,173
+30,4.33,3,6.92,Rajasthan Royals,Chennai Super Kings,Low scoring venue,126
+174,19.33,1,9.0,Royal Challengers Bengaluru,Delhi Capitals,Low scoring venue,174
+59,8.67,3,6.81,Royal Challengers Bengaluru,Rajasthan Royals,Low scoring venue,127
+89,11.33,7,7.85,Mumbai Indians,Lucknow Super Giants,Low scoring venue,139
+136,17.83,0,7.63,Lucknow Super Giants,Delhi Capitals,High scoring venue,188
+38,6.83,2,5.56,Punjab Kings,Chennai Super Kings,Low scoring venue,95
+51,6.5,5,7.85,Rajasthan Royals,Gujarat Titans,High scoring venue,182
+37,3.67,3,10.09,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,203
+95,9.17,1,10.36,Royal Challengers Bengaluru,Delhi Capitals,High scoring venue,223
+58,5.83,2,9.94,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,226
+23,5.67,0,4.06,Lucknow Super Giants,Gujarat Titans,Average scoring venue,116
+69,10.17,1,6.79,Mumbai Indians,Delhi Capitals,Average scoring venue,152
+68,8.83,4,7.7,Royal Challengers Bengaluru,Kolkata Knight Riders,Average scoring venue,135
+72,8.67,5,8.31,Gujarat Titans,Rajasthan Royals,High scoring venue,182
+145,18.83,2,7.7,Lucknow Super Giants,Mumbai Indians,High scoring venue,173
+67,9.83,3,6.81,Delhi Capitals,Lucknow Super Giants,High scoring venue,163
+43,12.33,5,3.49,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,60
+72,7.33,0,9.82,Royal Challengers Bengaluru,Rajasthan Royals,High scoring venue,212
+90,15.0,5,6.0,Punjab Kings,Kolkata Knight Riders,Low scoring venue,96
+19,3.5,0,5.43,Lucknow Super Giants,Punjab Kings,High scoring venue,76
+113,17.67,8,6.4,Gujarat Titans,Sunrisers Hyderabad,Average scoring venue,124
+29,3.33,2,8.7,Mumbai Indians,Delhi Capitals,Low scoring venue,139
+64,6.5,3,9.85,Delhi Capitals,Punjab Kings,High scoring venue,206
+49,7.33,1,6.68,Punjab Kings,Chennai Super Kings,Low scoring venue,138
+34,4.0,4,8.5,Kolkata Knight Riders,Chennai Super Kings,Low scoring venue,150
+104,18.83,8,5.52,Delhi Capitals,Punjab Kings,Average scoring venue,127
+89,9.83,3,9.05,Lucknow Super Giants,Chennai Super Kings,Average scoring venue,210
+49,5.0,2,9.8,Kolkata Knight Riders,Delhi Capitals,High scoring venue,208
+33,3.0,1,11.0,Rajasthan Royals,Sunrisers Hyderabad,Average scoring venue,245
+94,11.17,1,8.42,Lucknow Super Giants,Royal Challengers Bengaluru,Low scoring venue,148
+54,6.83,0,7.9,Sunrisers Hyderabad,Rajasthan Royals,Average scoring venue,122
+97,15.0,3,6.47,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,139
+58,4.83,3,12.0,Mumbai Indians,Sunrisers Hyderabad,High scoring venue,252
+91,12.0,6,7.58,Mumbai Indians,Rajasthan Royals,Average scoring venue,129
+112,13.83,8,8.1,Mumbai Indians,Lucknow Super Giants,Low scoring venue,127
+62,7.0,3,8.86,Punjab Kings,Rajasthan Royals,Average scoring venue,212
+60,9.33,0,6.43,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,99
+148,18.17,8,8.15,Gujarat Titans,Lucknow Super Giants,Average scoring venue,170
+98,12.17,3,8.05,Gujarat Titans,Punjab Kings,Average scoring venue,146
+143,12.0,5,11.92,Delhi Capitals,Rajasthan Royals,Low scoring venue,215
+57,7.0,4,8.14,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,223
+75,13.5,4,5.56,Royal Challengers Bengaluru,Mumbai Indians,High scoring venue,119
+68,13.0,5,5.23,Sunrisers Hyderabad,Chennai Super Kings,High scoring venue,114
+85,9.67,1,8.79,Rajasthan Royals,Sunrisers Hyderabad,High scoring venue,175
+181,17.0,0,10.65,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,223
+12,3.17,1,3.79,Delhi Capitals,Chennai Super Kings,Low scoring venue,77
+82,10.33,2,7.94,Punjab Kings,Kolkata Knight Riders,High scoring venue,169
+103,15.83,4,6.51,Royal Challengers Bengaluru,Sunrisers Hyderabad,High scoring venue,131
+33,5.0,0,6.6,Gujarat Titans,Royal Challengers Bengaluru,High scoring venue,153
+105,14.0,0,7.5,Mumbai Indians,Lucknow Super Giants,High scoring venue,166
+122,14.0,3,8.71,Royal Challengers Bengaluru,Kolkata Knight Riders,High scoring venue,171
+132,18.67,7,7.07,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,143
+96,13.5,6,7.11,Lucknow Super Giants,Rajasthan Royals,Low scoring venue,116
+69,8.83,2,7.81,Mumbai Indians,Delhi Capitals,Low scoring venue,129
+75,10.5,7,7.14,Delhi Capitals,Gujarat Titans,Low scoring venue,128
+104,15.17,8,6.86,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,122
+95,14.67,4,6.48,Punjab Kings,Delhi Capitals,Average scoring venue,136
+77,9.5,4,8.11,Punjab Kings,Mumbai Indians,Average scoring venue,140
+67,10.0,4,6.7,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,147
+136,17.5,5,7.77,Lucknow Super Giants,Delhi Capitals,High scoring venue,180
+49,4.67,0,10.5,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,193
+150,17.5,3,8.57,Kolkata Knight Riders,Punjab Kings,High scoring venue,190
+36,4.83,1,7.45,Rajasthan Royals,Punjab Kings,High scoring venue,174
+100,12.0,0,8.33,Punjab Kings,Gujarat Titans,Average scoring venue,157
+174,19.5,3,8.92,Punjab Kings,Delhi Capitals,Average scoring venue,174
+174,16.83,6,10.34,Mumbai Indians,Sunrisers Hyderabad,Low scoring venue,212
+29,6.17,3,4.7,Lucknow Super Giants,Royal Challengers Bengaluru,Low scoring venue,78
+72,5.83,2,12.34,Kolkata Knight Riders,Mumbai Indians,Low scoring venue,203
+123,16.33,7,7.53,Royal Challengers Bengaluru,Rajasthan Royals,High scoring venue,155
+81,10.0,1,8.1,Royal Challengers Bengaluru,Sunrisers Hyderabad,Low scoring venue,170
+59,7.83,5,7.53,Delhi Capitals,Kolkata Knight Riders,High scoring venue,164
+178,18.83,5,9.45,Delhi Capitals,Sunrisers Hyderabad,High scoring venue,184
+46,6.33,0,7.26,Sunrisers Hyderabad,Punjab Kings,Low scoring venue,131
+38,4.0,0,9.5,Chennai Super Kings,Lucknow Super Giants,Low scoring venue,191
+66,11.33,4,5.82,Royal Challengers Bengaluru,Punjab Kings,Average scoring venue,139
+158,18.67,6,8.46,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,158
+103,11.67,2,8.83,Royal Challengers Bengaluru,Punjab Kings,Average scoring venue,178
+40,9.33,6,4.29,Chennai Super Kings,Royal Challengers Bengaluru,High scoring venue,91
+149,16.17,8,9.22,Chennai Super Kings,Mumbai Indians,Low scoring venue,169
+90,9.0,5,10.0,Gujarat Titans,Lucknow Super Giants,High scoring venue,207
+34,4.83,4,7.03,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,138
+181,14.5,3,12.48,Mumbai Indians,Lucknow Super Giants,High scoring venue,243
+49,7.17,3,6.84,Kolkata Knight Riders,Punjab Kings,High scoring venue,151
+119,19.33,7,6.16,Punjab Kings,Delhi Capitals,Low scoring venue,119
+91,9.83,2,9.25,Sunrisers Hyderabad,Royal Challengers Bengaluru,Low scoring venue,215
+44,4.0,4,11.0,Delhi Capitals,Kolkata Knight Riders,High scoring venue,230
+89,9.33,5,9.54,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,169
+74,14.17,7,5.22,Royal Challengers Bengaluru,Delhi Capitals,High scoring venue,114
+57,12.0,8,4.75,Sunrisers Hyderabad,Gujarat Titans,Average scoring venue,99
+149,17.5,2,8.51,Punjab Kings,Mumbai Indians,Low scoring venue,158
+179,18.17,5,9.85,Rajasthan Royals,Chennai Super Kings,Low scoring venue,188
+44,5.33,2,8.25,Kolkata Knight Riders,Gujarat Titans,High scoring venue,160
+45,4.33,4,10.38,Kolkata Knight Riders,Royal Challengers Bengaluru,Average scoring venue,207
+149,19.17,6,7.77,Royal Challengers Bengaluru,Chennai Super Kings,High scoring venue,183
+80,8.33,2,9.6,Punjab Kings,Royal Challengers Bengaluru,Average scoring venue,182
+108,14.17,4,7.62,Delhi Capitals,Mumbai Indians,Average scoring venue,150
+80,7.83,2,10.21,Sunrisers Hyderabad,Lucknow Super Giants,Low scoring venue,204
+93,14.0,1,6.64,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,134
+19,4.33,4,4.38,Delhi Capitals,Rajasthan Royals,High scoring venue,109
+114,12.67,7,9.0,Rajasthan Royals,Chennai Super Kings,High scoring venue,151
+206,18.33,0,11.24,Gujarat Titans,Sunrisers Hyderabad,High scoring venue,231
+56,8.5,4,6.59,Kolkata Knight Riders,Gujarat Titans,Average scoring venue,137
+57,13.0,8,4.38,Delhi Capitals,Kolkata Knight Riders,Low scoring venue,60
+101,18.0,7,5.61,Kolkata Knight Riders,Punjab Kings,Average scoring venue,112
+201,19.0,3,10.58,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,213
+102,16.67,2,6.12,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,124
+115,16.67,0,6.9,Gujarat Titans,Punjab Kings,High scoring venue,158
+138,10.83,2,12.74,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,243
+68,7.0,1,9.71,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,164
+44,4.17,4,10.56,Punjab Kings,Lucknow Super Giants,High scoring venue,222
+73,10.17,2,7.18,Chennai Super Kings,Mumbai Indians,Low scoring venue,141
+148,19.17,0,7.72,Kolkata Knight Riders,Mumbai Indians,High scoring venue,156
+178,19.17,2,9.29,Chennai Super Kings,Gujarat Titans,Low scoring venue,188
+53,11.83,7,4.48,Sunrisers Hyderabad,Royal Challengers Bengaluru,High scoring venue,97
+39,5.83,2,6.69,Royal Challengers Bengaluru,Rajasthan Royals,High scoring venue,130
+30,3.17,2,9.47,Punjab Kings,Sunrisers Hyderabad,Average scoring venue,188
+89,11.17,0,7.97,Chennai Super Kings,Mumbai Indians,Average scoring venue,168
+71,7.17,5,9.91,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,210
+53,5.17,0,10.26,Mumbai Indians,Lucknow Super Giants,Low scoring venue,192
+88,19.0,3,4.63,Punjab Kings,Chennai Super Kings,Average scoring venue,98
+82,9.5,1,8.63,Punjab Kings,Mumbai Indians,Low scoring venue,120
+90,13.33,3,6.75,Rajasthan Royals,Sunrisers Hyderabad,High scoring venue,146
+134,15.17,8,8.84,Punjab Kings,Rajasthan Royals,Low scoring venue,152
+26,3.83,2,6.78,Delhi Capitals,Mumbai Indians,High scoring venue,166
+106,15.5,8,6.84,Gujarat Titans,Punjab Kings,High scoring venue,126
+79,12.33,8,6.41,Mumbai Indians,Delhi Capitals,High scoring venue,139
+118,14.33,3,8.23,Gujarat Titans,Punjab Kings,High scoring venue,171
+32,3.0,0,10.67,Rajasthan Royals,Lucknow Super Giants,Average scoring venue,218
+44,7.67,4,5.74,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,125
+149,19.5,0,7.64,Lucknow Super Giants,Rajasthan Royals,Low scoring venue,149
+75,8.83,4,8.49,Gujarat Titans,Punjab Kings,Low scoring venue,149
+67,9.17,0,7.31,Punjab Kings,Kolkata Knight Riders,High scoring venue,141
+129,15.83,5,8.15,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,147
+116,12.17,2,9.53,Delhi Capitals,Punjab Kings,High scoring venue,183
+17,3.83,0,4.43,Sunrisers Hyderabad,Lucknow Super Giants,Low scoring venue,66
+180,16.5,2,10.91,Rajasthan Royals,Delhi Capitals,High scoring venue,193
+156,16.0,6,9.75,Lucknow Super Giants,Chennai Super Kings,Average scoring venue,196
+165,18.0,3,9.17,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,181
+86,10.0,1,8.6,Gujarat Titans,Kolkata Knight Riders,Average scoring venue,176
+97,13.5,5,7.19,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,143
+29,5.17,4,5.61,Delhi Capitals,Rajasthan Royals,Average scoring venue,116
+64,9.17,0,6.98,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,124
+69,6.67,0,10.35,Lucknow Super Giants,Mumbai Indians,High scoring venue,254
+82,11.33,4,7.24,Sunrisers Hyderabad,Lucknow Super Giants,Low scoring venue,139
+31,3.33,3,9.3,Mumbai Indians,Punjab Kings,High scoring venue,212
+159,18.17,8,8.75,Rajasthan Royals,Mumbai Indians,High scoring venue,200
+115,18.0,6,6.39,Kolkata Knight Riders,Chennai Super Kings,High scoring venue,142
+42,5.17,3,8.13,Delhi Capitals,Chennai Super Kings,Average scoring venue,145
+36,5.5,1,6.55,Lucknow Super Giants,Delhi Capitals,Low scoring venue,109
+141,15.0,2,9.4,Delhi Capitals,Sunrisers Hyderabad,Low scoring venue,166
+45,4.33,1,10.38,Punjab Kings,Chennai Super Kings,Average scoring venue,217
+99,10.67,7,9.28,Punjab Kings,Rajasthan Royals,Average scoring venue,165
+62,6.33,3,9.79,Kolkata Knight Riders,Mumbai Indians,Low scoring venue,183
+41,5.83,4,7.03,Sunrisers Hyderabad,Rajasthan Royals,High scoring venue,130
+113,13.5,6,8.37,Sunrisers Hyderabad,Mumbai Indians,High scoring venue,196
+61,11.0,0,5.55,Kolkata Knight Riders,Sunrisers Hyderabad,High scoring venue,114
+62,11.0,1,5.64,Punjab Kings,Chennai Super Kings,Low scoring venue,80
+120,17.17,3,6.99,Lucknow Super Giants,Punjab Kings,Low scoring venue,147
+134,19.5,2,6.87,Lucknow Super Giants,Gujarat Titans,Average scoring venue,152
+142,19.33,6,7.34,Lucknow Super Giants,Mumbai Indians,Average scoring venue,165
+76,10.33,5,7.35,Punjab Kings,Mumbai Indians,High scoring venue,166
+158,16.67,2,9.48,Mumbai Indians,Delhi Capitals,High scoring venue,187
+44,5.0,3,8.8,Chennai Super Kings,Punjab Kings,High scoring venue,200
+68,8.33,4,8.16,Chennai Super Kings,Lucknow Super Giants,Average scoring venue,153
+93,15.17,6,6.13,Punjab Kings,Lucknow Super Giants,Average scoring venue,112
+29,4.67,4,6.21,Mumbai Indians,Gujarat Titans,High scoring venue,142
+85,10.0,5,8.5,Punjab Kings,Chennai Super Kings,Low scoring venue,178
+63,5.67,4,11.12,Rajasthan Royals,Delhi Capitals,High scoring venue,239
+106,14.83,8,7.15,Lucknow Super Giants,Gujarat Titans,Average scoring venue,120
+24,4.0,1,6.0,Punjab Kings,Royal Challengers Bengaluru,Average scoring venue,134
+18,3.33,2,5.4,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,137
+172,15.17,2,11.34,Chennai Super Kings,Mumbai Indians,Low scoring venue,221
+94,13.67,2,6.88,Kolkata Knight Riders,Royal Challengers Bengaluru,Average scoring venue,138
+91,13.17,0,6.91,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,162
+28,3.83,1,7.3,Sunrisers Hyderabad,Gujarat Titans,High scoring venue,176
+134,17.0,5,7.88,Rajasthan Royals,Gujarat Titans,Average scoring venue,144
+137,14.5,3,9.45,Royal Challengers Bengaluru,Mumbai Indians,High scoring venue,201
+41,7.83,1,5.23,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,98
+54,8.0,1,6.75,Lucknow Super Giants,Sunrisers Hyderabad,High scoring venue,167
+83,7.5,5,11.07,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,196
+145,14.33,2,10.12,Mumbai Indians,Rajasthan Royals,Average scoring venue,204
+125,18.67,6,6.7,Sunrisers Hyderabad,Kolkata Knight Riders,High scoring venue,146
+162,18.67,8,8.68,Gujarat Titans,Mumbai Indians,Average scoring venue,162
+163,17.17,7,9.5,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,193
+104,14.67,5,7.09,Rajasthan Royals,Sunrisers Hyderabad,Low scoring venue,136
+102,18.17,0,5.61,Sunrisers Hyderabad,Delhi Capitals,Average scoring venue,106
+134,16.83,5,7.96,Royal Challengers Bengaluru,Punjab Kings,Low scoring venue,152
+74,6.33,5,11.68,Chennai Super Kings,Kolkata Knight Riders,High scoring venue,235
+79,11.0,7,7.18,Gujarat Titans,Sunrisers Hyderabad,Low scoring venue,135
+27,3.0,3,9.0,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,161
+104,12.83,7,8.1,Chennai Super Kings,Lucknow Super Giants,High scoring venue,166
+60,7.83,3,7.66,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,191
+86,14.17,0,6.07,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,124
+120,19.5,8,6.15,Mumbai Indians,Delhi Capitals,Low scoring venue,129
+50,7.17,2,6.98,Punjab Kings,Gujarat Titans,Average scoring venue,125
+23,3.33,1,6.9,Rajasthan Royals,Royal Challengers Bengaluru,Average scoring venue,140
+41,7.33,2,5.59,Lucknow Super Giants,Royal Challengers Bengaluru,High scoring venue,132
+90,13.0,4,6.92,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,149
+64,10.0,7,6.4,Punjab Kings,Mumbai Indians,High scoring venue,104
+50,6.67,3,7.5,Kolkata Knight Riders,Lucknow Super Giants,High scoring venue,146
+117,12.83,5,9.12,Chennai Super Kings,Mumbai Indians,Low scoring venue,161
+37,6.33,2,5.84,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,101
+26,3.67,2,7.09,Lucknow Super Giants,Punjab Kings,High scoring venue,129
+72,10.83,7,6.65,Kolkata Knight Riders,Punjab Kings,High scoring venue,139
+20,5.0,4,4.0,Rajasthan Royals,Delhi Capitals,Average scoring venue,69
+147,16.0,0,9.19,Gujarat Titans,Chennai Super Kings,Low scoring venue,160
+71,10.67,0,6.66,Sunrisers Hyderabad,Rajasthan Royals,Low scoring venue,150
+77,13.67,8,5.63,Sunrisers Hyderabad,Lucknow Super Giants,Average scoring venue,99
+61,9.83,0,6.2,Rajasthan Royals,Gujarat Titans,Average scoring venue,152
+118,12.83,5,9.19,Gujarat Titans,Sunrisers Hyderabad,High scoring venue,182
+163,18.83,0,8.65,Gujarat Titans,Royal Challengers Bengaluru,Low scoring venue,163
+146,19.67,6,7.42,Rajasthan Royals,Kolkata Knight Riders,High scoring venue,157
+71,14.67,6,4.84,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,92
+134,19.0,7,7.05,Delhi Capitals,Mumbai Indians,Average scoring venue,147
+60,4.67,0,12.86,Lucknow Super Giants,Chennai Super Kings,High scoring venue,239
+96,17.83,7,5.38,Royal Challengers Bengaluru,Lucknow Super Giants,Average scoring venue,104
+85,10.33,0,8.23,Chennai Super Kings,Delhi Capitals,Average scoring venue,167
+48,11.0,6,4.36,Gujarat Titans,Delhi Capitals,Average scoring venue,73
+67,9.33,4,7.18,Chennai Super Kings,Punjab Kings,Average scoring venue,130
+111,14.33,7,7.74,Lucknow Super Giants,Mumbai Indians,High scoring venue,163
+149,17.67,6,8.43,Royal Challengers Bengaluru,Sunrisers Hyderabad,Average scoring venue,173
+129,14.0,6,9.21,Punjab Kings,Rajasthan Royals,Average scoring venue,169
+84,9.67,1,8.69,Rajasthan Royals,Delhi Capitals,Low scoring venue,175
+128,16.33,0,7.84,Mumbai Indians,Lucknow Super Giants,Low scoring venue,143
+132,15.17,0,8.7,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,185
+86,10.17,1,8.46,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,194
+55,8.0,6,6.88,Rajasthan Royals,Kolkata Knight Riders,Low scoring venue,88
+90,9.0,4,10.0,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,219
+132,19.5,7,6.77,Lucknow Super Giants,Sunrisers Hyderabad,High scoring venue,147
+84,8.5,2,9.88,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,184
+103,15.67,6,6.57,Delhi Capitals,Lucknow Super Giants,High scoring venue,129
+45,3.33,3,13.5,Chennai Super Kings,Kolkata Knight Riders,Average scoring venue,215
+155,14.33,4,10.81,Royal Challengers Bengaluru,Lucknow Super Giants,High scoring venue,224
+136,15.17,5,8.97,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,180
+81,9.83,6,8.24,Chennai Super Kings,Kolkata Knight Riders,Average scoring venue,145
+160,18.33,2,8.73,Mumbai Indians,Sunrisers Hyderabad,Low scoring venue,169
+72,14.67,3,4.91,Kolkata Knight Riders,Chennai Super Kings,Low scoring venue,113
+100,12.17,7,8.22,Sunrisers Hyderabad,Chennai Super Kings,High scoring venue,176
+125,13.83,2,9.04,Mumbai Indians,Gujarat Titans,High scoring venue,183
+177,17.5,2,10.11,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,215
+86,12.17,1,7.07,Rajasthan Royals,Mumbai Indians,Low scoring venue,128
+36,6.33,5,5.68,Mumbai Indians,Kolkata Knight Riders,Average scoring venue,113
+89,7.83,4,11.36,Delhi Capitals,Kolkata Knight Riders,Average scoring venue,228
+95,13.33,0,7.12,Royal Challengers Bengaluru,Lucknow Super Giants,Low scoring venue,122
+87,19.5,3,4.46,Rajasthan Royals,Punjab Kings,Average scoring venue,99
+112,13.5,8,8.3,Punjab Kings,Lucknow Super Giants,High scoring venue,171
+134,15.17,1,8.84,Punjab Kings,Lucknow Super Giants,Low scoring venue,152
+10,3.5,1,2.86,Kolkata Knight Riders,Royal Challengers Bengaluru,High scoring venue,95
+110,11.17,2,9.85,Royal Challengers Bengaluru,Rajasthan Royals,Low scoring venue,184
+153,19.17,0,7.98,Chennai Super Kings,Rajasthan Royals,Average scoring venue,159
+60,8.33,5,7.2,Delhi Capitals,Kolkata Knight Riders,Low scoring venue,123
+115,16.33,0,7.04,Lucknow Super Giants,Sunrisers Hyderabad,Low scoring venue,131
+99,12.5,8,7.92,Sunrisers Hyderabad,Kolkata Knight Riders,Average scoring venue,147
+87,13.67,4,6.37,Mumbai Indians,Gujarat Titans,Average scoring venue,129
+59,7.5,2,7.87,Royal Challengers Bengaluru,Sunrisers Hyderabad,Low scoring venue,122
+115,16.5,5,6.97,Sunrisers Hyderabad,Lucknow Super Giants,Low scoring venue,115
+111,15.5,2,7.16,Delhi Capitals,Lucknow Super Giants,Average scoring venue,141
+55,10.33,2,5.32,Sunrisers Hyderabad,Delhi Capitals,Average scoring venue,84
+104,10.17,1,10.23,Rajasthan Royals,Delhi Capitals,Average scoring venue,190
+69,8.5,6,8.12,Punjab Kings,Rajasthan Royals,High scoring venue,164
+37,4.67,0,7.93,Sunrisers Hyderabad,Gujarat Titans,High scoring venue,175
+20,3.5,2,5.71,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,102
+140,14.83,2,9.44,Delhi Capitals,Mumbai Indians,High scoring venue,199
+71,11.67,0,6.09,Delhi Capitals,Punjab Kings,High scoring venue,115
+95,19.83,0,4.79,Rajasthan Royals,Lucknow Super Giants,Average scoring venue,103
+75,12.83,0,5.84,Lucknow Super Giants,Mumbai Indians,High scoring venue,113
+121,19.0,3,6.37,Gujarat Titans,Punjab Kings,Average scoring venue,134
+31,5.17,2,6.0,Rajasthan Royals,Mumbai Indians,Low scoring venue,116
+82,10.67,4,7.69,Chennai Super Kings,Punjab Kings,Average scoring venue,175
+36,5.0,2,7.2,Kolkata Knight Riders,Rajasthan Royals,Average scoring venue,125
+167,19.5,0,8.56,Royal Challengers Bengaluru,Gujarat Titans,High scoring venue,183
+123,16.83,5,7.31,Rajasthan Royals,Chennai Super Kings,High scoring venue,142
+53,7.67,0,6.91,Lucknow Super Giants,Mumbai Indians,Average scoring venue,144
+103,13.33,6,7.72,Chennai Super Kings,Punjab Kings,High scoring venue,166
+106,12.83,5,8.26,Chennai Super Kings,Lucknow Super Giants,Low scoring venue,146
+101,12.5,2,8.08,Rajasthan Royals,Punjab Kings,Average scoring venue,170
+84,9.83,2,8.54,Gujarat Titans,Sunrisers Hyderabad,Low scoring venue,183
+61,10.17,7,6.0,Royal Challengers Bengaluru,Punjab Kings,High scoring venue,151
+38,4.5,2,8.44,Lucknow Super Giants,Rajasthan Royals,Average scoring venue,160
+104,16.17,0,6.43,Chennai Super Kings,Lucknow Super Giants,High scoring venue,131
+52,6.67,5,7.8,Gujarat Titans,Royal Challengers Bengaluru,Average scoring venue,173
+35,4.17,1,8.4,Chennai Super Kings,Mumbai Indians,Average scoring venue,161
+49,7.83,1,6.26,Kolkata Knight Riders,Lucknow Super Giants,Average scoring venue,131
+76,6.5,0,11.69,Punjab Kings,Mumbai Indians,High scoring venue,247
+31,8.33,4,3.72,Gujarat Titans,Delhi Capitals,High scoring venue,75
+170,18.5,0,9.19,Royal Challengers Bengaluru,Delhi Capitals,High scoring venue,195
+160,15.5,6,10.32,Gujarat Titans,Lucknow Super Giants,Average scoring venue,221
+117,14.67,3,7.98,Mumbai Indians,Gujarat Titans,Low scoring venue,152
+87,17.0,7,5.12,Mumbai Indians,Gujarat Titans,Average scoring venue,121
+26,4.67,2,5.57,Lucknow Super Giants,Chennai Super Kings,High scoring venue,99
+76,10.67,5,7.12,Royal Challengers Bengaluru,Rajasthan Royals,Low scoring venue,135
+81,11.67,7,6.94,Lucknow Super Giants,Sunrisers Hyderabad,High scoring venue,154
+39,5.67,4,6.88,Royal Challengers Bengaluru,Kolkata Knight Riders,Low scoring venue,70
+39,4.33,0,9.0,Royal Challengers Bengaluru,Mumbai Indians,Low scoring venue,146
+129,17.33,6,7.44,Royal Challengers Bengaluru,Gujarat Titans,Low scoring venue,137
+47,6.67,4,7.05,Mumbai Indians,Rajasthan Royals,High scoring venue,117
+43,4.33,4,9.92,Rajasthan Royals,Delhi Capitals,Low scoring venue,138
+108,14.17,8,7.62,Lucknow Super Giants,Gujarat Titans,Low scoring venue,108
+128,12.83,1,9.97,Sunrisers Hyderabad,Chennai Super Kings,Low scoring venue,200
+36,4.67,2,7.71,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,203
+135,15.83,5,8.53,Gujarat Titans,Sunrisers Hyderabad,High scoring venue,180
+58,6.0,3,9.67,Mumbai Indians,Punjab Kings,High scoring venue,206
+31,6.5,1,4.77,Delhi Capitals,Mumbai Indians,Average scoring venue,76
+41,3.83,2,10.7,Lucknow Super Giants,Gujarat Titans,High scoring venue,219
+64,16.83,4,3.8,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,82
+47,5.83,4,8.06,Lucknow Super Giants,Sunrisers Hyderabad,Average scoring venue,148
+136,19.67,0,6.92,Chennai Super Kings,Lucknow Super Giants,High scoring venue,147
+156,13.33,8,11.7,Delhi Capitals,Rajasthan Royals,Low scoring venue,221
+116,19.83,5,5.85,Royal Challengers Bengaluru,Sunrisers Hyderabad,High scoring venue,119
+56,10.0,4,5.6,Delhi Capitals,Punjab Kings,High scoring venue,154
+155,19.67,1,7.88,Rajasthan Royals,Gujarat Titans,Low scoring venue,155
+75,12.0,3,6.25,Kolkata Knight Riders,Delhi Capitals,Average scoring venue,131
+109,9.83,3,11.08,Kolkata Knight Riders,Chennai Super Kings,High scoring venue,228
+35,4.5,2,7.78,Kolkata Knight Riders,Mumbai Indians,Average scoring venue,167
+156,16.0,3,9.75,Mumbai Indians,Chennai Super Kings,High scoring venue,196
+73,8.67,6,8.42,Gujarat Titans,Lucknow Super Giants,Average scoring venue,169
+163,16.5,1,9.88,Chennai Super Kings,Royal Challengers Bengaluru,Average scoring venue,196
+27,3.0,2,9.0,Sunrisers Hyderabad,Kolkata Knight Riders,High scoring venue,175
+140,18.83,2,7.43,Rajasthan Royals,Chennai Super Kings,Average scoring venue,140
+57,10.83,6,5.26,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,117
+80,7.67,5,10.43,Royal Challengers Bengaluru,Sunrisers Hyderabad,High scoring venue,213
+76,10.83,4,7.02,Mumbai Indians,Royal Challengers Bengaluru,High scoring venue,131
+137,18.67,3,7.34,Royal Challengers Bengaluru,Punjab Kings,Average scoring venue,137
+47,6.0,5,7.83,Kolkata Knight Riders,Sunrisers Hyderabad,High scoring venue,151
+145,15.83,7,9.16,Punjab Kings,Delhi Capitals,High scoring venue,188
+32,3.5,0,9.14,Royal Challengers Bengaluru,Chennai Super Kings,High scoring venue,187
+41,5.67,1,7.24,Gujarat Titans,Royal Challengers Bengaluru,High scoring venue,151
+76,9.83,6,7.73,Lucknow Super Giants,Gujarat Titans,Low scoring venue,144
+35,7.67,2,4.57,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,123
+146,19.17,3,7.62,Mumbai Indians,Royal Challengers Bengaluru,Low scoring venue,163
+57,14.67,7,3.89,Lucknow Super Giants,Kolkata Knight Riders,Average scoring venue,74
+117,14.5,5,8.07,Chennai Super Kings,Rajasthan Royals,Low scoring venue,152
+106,12.83,8,8.26,Kolkata Knight Riders,Sunrisers Hyderabad,High scoring venue,162
+62,7.83,2,7.91,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,170
+88,11.67,0,7.54,Mumbai Indians,Lucknow Super Giants,High scoring venue,151
+53,7.17,4,7.4,Lucknow Super Giants,Punjab Kings,Average scoring venue,135
+45,7.0,1,6.43,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,134
+57,5.33,1,10.69,Kolkata Knight Riders,Rajasthan Royals,Low scoring venue,188
+133,18.83,7,7.06,Gujarat Titans,Chennai Super Kings,Low scoring venue,133
+126,15.33,8,8.22,Sunrisers Hyderabad,Delhi Capitals,Average scoring venue,145
+68,9.5,1,7.16,Delhi Capitals,Chennai Super Kings,Low scoring venue,123
+160,19.33,0,8.28,Lucknow Super Giants,Royal Challengers Bengaluru,High scoring venue,178
+8,4.17,4,1.92,Gujarat Titans,Punjab Kings,Average scoring venue,88
+18,6.33,4,2.84,Kolkata Knight Riders,Punjab Kings,Average scoring venue,62
+71,7.5,5,9.47,Mumbai Indians,Delhi Capitals,Average scoring venue,188
+94,11.33,7,8.29,Gujarat Titans,Rajasthan Royals,High scoring venue,182
+99,12.33,1,8.03,Delhi Capitals,Chennai Super Kings,High scoring venue,160
+147,18.33,6,8.02,Chennai Super Kings,Rajasthan Royals,High scoring venue,158
+110,15.33,1,7.17,Sunrisers Hyderabad,Lucknow Super Giants,High scoring venue,140
+124,15.67,7,7.91,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,169
+150,17.5,6,8.57,Rajasthan Royals,Royal Challengers Bengaluru,High scoring venue,176
+86,8.17,1,10.53,Gujarat Titans,Punjab Kings,High scoring venue,202
+52,5.17,0,10.06,Kolkata Knight Riders,Royal Challengers Bengaluru,High scoring venue,195
+67,6.17,4,10.86,Kolkata Knight Riders,Sunrisers Hyderabad,Low scoring venue,221
+157,16.67,3,9.42,Delhi Capitals,Kolkata Knight Riders,High scoring venue,196
+92,16.67,6,5.52,Gujarat Titans,Punjab Kings,High scoring venue,113
+181,18.33,3,9.87,Gujarat Titans,Mumbai Indians,Low scoring venue,181
+37,7.83,0,4.72,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,137
+79,11.17,4,7.07,Lucknow Super Giants,Kolkata Knight Riders,High scoring venue,167
+27,3.5,3,7.71,Royal Challengers Bengaluru,Kolkata Knight Riders,Average scoring venue,112
+122,13.33,6,9.15,Sunrisers Hyderabad,Delhi Capitals,High scoring venue,190
+50,6.0,4,8.33,Kolkata Knight Riders,Lucknow Super Giants,Low scoring venue,161
+91,11.83,1,7.69,Chennai Super Kings,Delhi Capitals,High scoring venue,166
+33,6.5,3,5.08,Sunrisers Hyderabad,Royal Challengers Bengaluru,High scoring venue,111
+91,12.83,8,7.09,Kolkata Knight Riders,Royal Challengers Bengaluru,Average scoring venue,148
+56,12.67,6,4.42,Mumbai Indians,Royal Challengers Bengaluru,High scoring venue,108
+54,7.5,2,7.2,Sunrisers Hyderabad,Mumbai Indians,Average scoring venue,130
+56,5.83,4,9.6,Gujarat Titans,Mumbai Indians,High scoring venue,191
+119,14.33,1,8.3,Kolkata Knight Riders,Gujarat Titans,Low scoring venue,166
+145,18.33,5,7.91,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,145
+36,6.5,1,5.54,Gujarat Titans,Punjab Kings,Average scoring venue,103
+84,8.67,5,9.69,Sunrisers Hyderabad,Delhi Capitals,Low scoring venue,186
+79,15.67,0,5.04,Mumbai Indians,Rajasthan Royals,Average scoring venue,101
+88,13.17,1,6.68,Kolkata Knight Riders,Mumbai Indians,High scoring venue,150
+164,16.83,4,9.74,Lucknow Super Giants,Mumbai Indians,Average scoring venue,182
+164,19.67,0,8.34,Rajasthan Royals,Gujarat Titans,Low scoring venue,164
+126,17.33,3,7.27,Gujarat Titans,Chennai Super Kings,Low scoring venue,153
+134,15.0,8,8.93,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,162
+72,9.67,5,7.45,Delhi Capitals,Royal Challengers Bengaluru,High scoring venue,152
+64,8.5,3,7.53,Rajasthan Royals,Sunrisers Hyderabad,Low scoring venue,144
+35,6.67,5,5.25,Gujarat Titans,Chennai Super Kings,Low scoring venue,73
+172,17.5,1,9.83,Rajasthan Royals,Mumbai Indians,Low scoring venue,172
+45,6.83,5,6.59,Chennai Super Kings,Sunrisers Hyderabad,High scoring venue,148
+129,13.33,7,9.67,Rajasthan Royals,Punjab Kings,Average scoring venue,183
+44,6.67,1,6.6,Gujarat Titans,Kolkata Knight Riders,High scoring venue,136
+108,14.33,4,7.53,Lucknow Super Giants,Delhi Capitals,Low scoring venue,156
+184,19.33,1,9.52,Kolkata Knight Riders,Rajasthan Royals,High scoring venue,211
+69,9.17,1,7.53,Chennai Super Kings,Gujarat Titans,High scoring venue,156
+107,10.5,1,10.19,Punjab Kings,Mumbai Indians,Average scoring venue,213
+122,16.0,6,7.62,Sunrisers Hyderabad,Rajasthan Royals,Average scoring venue,151
+121,16.0,0,7.56,Royal Challengers Bengaluru,Kolkata Knight Riders,Low scoring venue,128
+81,11.5,3,7.04,Punjab Kings,Delhi Capitals,High scoring venue,149
+94,12.33,5,7.62,Kolkata Knight Riders,Sunrisers Hyderabad,High scoring venue,197
+69,10.17,2,6.79,Mumbai Indians,Lucknow Super Giants,Average scoring venue,126
+138,16.67,2,8.28,Lucknow Super Giants,Delhi Capitals,Low scoring venue,143
+129,13.5,0,9.56,Mumbai Indians,Sunrisers Hyderabad,High scoring venue,207
+194,17.83,7,10.88,Sunrisers Hyderabad,Gujarat Titans,Average scoring venue,220
+110,14.17,5,7.76,Kolkata Knight Riders,Delhi Capitals,High scoring venue,178
+49,5.33,4,9.19,Delhi Capitals,Gujarat Titans,Low scoring venue,157
+82,10.17,5,8.07,Sunrisers Hyderabad,Kolkata Knight Riders,High scoring venue,154
+99,14.67,7,6.75,Gujarat Titans,Mumbai Indians,Low scoring venue,114
+140,15.33,8,9.13,Rajasthan Royals,Royal Challengers Bengaluru,Low scoring venue,168
+99,12.83,4,7.71,Rajasthan Royals,Chennai Super Kings,High scoring venue,171
+53,11.83,2,4.48,Mumbai Indians,Sunrisers Hyderabad,High scoring venue,87
+118,12.17,2,9.7,Delhi Capitals,Punjab Kings,Low scoring venue,162
+48,5.33,4,9.0,Mumbai Indians,Chennai Super Kings,Low scoring venue,128
+178,19.83,3,8.98,Chennai Super Kings,Rajasthan Royals,Average scoring venue,178
+65,8.5,1,7.65,Gujarat Titans,Royal Challengers Bengaluru,Average scoring venue,131
+143,16.0,3,8.94,Kolkata Knight Riders,Sunrisers Hyderabad,Average scoring venue,182
+18,3.67,3,4.91,Rajasthan Royals,Mumbai Indians,High scoring venue,107
+113,10.17,3,11.11,Sunrisers Hyderabad,Royal Challengers Bengaluru,Low scoring venue,221
+95,16.83,5,5.64,Gujarat Titans,Sunrisers Hyderabad,Low scoring venue,105
+143,17.67,1,8.09,Delhi Capitals,Sunrisers Hyderabad,High scoring venue,162
+141,16.17,1,8.72,Chennai Super Kings,Mumbai Indians,High scoring venue,201
+127,17.0,5,7.47,Royal Challengers Bengaluru,Rajasthan Royals,Average scoring venue,140
+58,10.17,7,5.7,Rajasthan Royals,Punjab Kings,High scoring venue,149
+162,18.33,8,8.84,Chennai Super Kings,Sunrisers Hyderabad,Average scoring venue,162
+61,9.5,4,6.42,Kolkata Knight Riders,Gujarat Titans,Low scoring venue,127
+122,12.5,4,9.76,Lucknow Super Giants,Chennai Super Kings,Low scoring venue,183
+81,10.83,4,7.48,Royal Challengers Bengaluru,Chennai Super Kings,Average scoring venue,170
+46,9.33,4,4.93,Gujarat Titans,Kolkata Knight Riders,Average scoring venue,93
+95,8.33,1,11.4,Punjab Kings,Rajasthan Royals,High scoring venue,249
+98,10.5,0,9.33,Royal Challengers Bengaluru,Sunrisers Hyderabad,Low scoring venue,181
+37,3.33,1,11.1,Rajasthan Royals,Sunrisers Hyderabad,Average scoring venue,214
+50,6.33,4,7.89,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,154
+125,14.33,8,8.72,Lucknow Super Giants,Gujarat Titans,Low scoring venue,138
+80,6.5,4,12.31,Kolkata Knight Riders,Mumbai Indians,Low scoring venue,244
+125,18.33,4,6.82,Chennai Super Kings,Lucknow Super Giants,High scoring venue,125
+101,11.67,2,8.66,Gujarat Titans,Sunrisers Hyderabad,Average scoring venue,184
+15,3.83,3,3.91,Punjab Kings,Mumbai Indians,Low scoring venue,57
+121,16.5,8,7.33,Royal Challengers Bengaluru,Mumbai Indians,Low scoring venue,132
+37,5.17,2,7.16,Chennai Super Kings,Sunrisers Hyderabad,Low scoring venue,119
+180,18.17,0,9.91,Punjab Kings,Rajasthan Royals,High scoring venue,206
+63,7.5,5,8.4,Chennai Super Kings,Rajasthan Royals,Average scoring venue,161
+166,19.83,8,8.37,Lucknow Super Giants,Kolkata Knight Riders,Low scoring venue,166
+81,11.0,5,7.36,Delhi Capitals,Punjab Kings,High scoring venue,153
+51,5.0,1,10.2,Gujarat Titans,Sunrisers Hyderabad,Average scoring venue,188
+55,14.67,8,3.75,Gujarat Titans,Lucknow Super Giants,Low scoring venue,55
+132,18.83,1,7.01,Delhi Capitals,Rajasthan Royals,Average scoring venue,132
+45,4.0,1,11.25,Rajasthan Royals,Chennai Super Kings,Low scoring venue,211
+25,3.67,0,6.82,Delhi Capitals,Royal Challengers Bengaluru,Average scoring venue,149
+8,3.83,0,2.09,Royal Challengers Bengaluru,Punjab Kings,Low scoring venue,60
+70,6.17,0,11.35,Kolkata Knight Riders,Royal Challengers Bengaluru,High scoring venue,233
+58,13.0,6,4.46,Mumbai Indians,Gujarat Titans,Average scoring venue,69
+58,7.33,0,7.91,Royal Challengers Bengaluru,Delhi Capitals,Low scoring venue,158
+116,17.33,2,6.69,Lucknow Super Giants,Mumbai Indians,Average scoring venue,133
+192,19.0,3,10.11,Kolkata Knight Riders,Rajasthan Royals,Average scoring venue,210
+48,9.5,4,5.05,Royal Challengers Bengaluru,Lucknow Super Giants,High scoring venue,112
+66,10.17,4,6.49,Sunrisers Hyderabad,Chennai Super Kings,Average scoring venue,112
+155,18.5,4,8.38,Sunrisers Hyderabad,Punjab Kings,Low scoring venue,164
+79,7.67,5,10.3,Gujarat Titans,Delhi Capitals,Low scoring venue,222
+111,16.33,5,6.8,Punjab Kings,Rajasthan Royals,Low scoring venue,128
+92,14.0,8,6.57,Royal Challengers Bengaluru,Delhi Capitals,Low scoring venue,129
+74,11.33,6,6.53,Sunrisers Hyderabad,Gujarat Titans,Low scoring venue,143
+115,15.17,8,7.58,Gujarat Titans,Punjab Kings,Low scoring venue,134
+99,14.83,6,6.67,Delhi Capitals,Mumbai Indians,High scoring venue,135
+42,4.67,0,9.0,Kolkata Knight Riders,Punjab Kings,High scoring venue,200
+50,6.0,2,8.33,Chennai Super Kings,Gujarat Titans,Low scoring venue,148
+55,5.67,3,9.71,Gujarat Titans,Mumbai Indians,Low scoring venue,204
+147,16.0,6,9.19,Mumbai Indians,Sunrisers Hyderabad,Average scoring venue,169
+165,19.33,7,8.53,Delhi Capitals,Lucknow Super Giants,High scoring venue,192
+196,19.0,2,10.32,Lucknow Super Giants,Gujarat Titans,High scoring venue,233
+31,3.67,2,8.45,Lucknow Super Giants,Royal Challengers Bengaluru,Low scoring venue,147
+116,14.33,0,8.09,Lucknow Super Giants,Mumbai Indians,High scoring venue,189
