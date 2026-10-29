@@ -3,8 +3,9 @@ import joblib
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = ROOT / "data" / "ipl_training_data.csv"
-MODEL_PATH = ROOT / "models" / "ipl_score_model.joblib"
+DATA_PATH = ROOT / "ipl_training_data.csv"
+MODEL_PATH = ROOT / "ipl_score_model.joblib"
+
 
 def load_model():
     """Load the model saved by train_model.py."""
