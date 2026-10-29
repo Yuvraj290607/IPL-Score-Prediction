@@ -7,12 +7,19 @@ DATA_PATH = ROOT / "ipl_training_data.csv"
 MODEL_PATH = ROOT / "ipl_score_model.joblib"
 
 
+
 def load_model():
-    """Load the model saved by train_model.py."""
+    """Load the trained IPL prediction model."""
     if not MODEL_PATH.exists():
         return None, None
-    bundle = joblib.load(MODEL_PATH)
-    return bundle["model"], bundle["feature_columns"]
+
+    try:
+        bundle = joblib.load(MODEL_PATH)
+        return bundle["model"], bundle["feature_columns"]
+    except Exception as e:
+        raise RuntimeError(f"Model loading failed: {e}") from e
+
+
 
 def load_training_data():
     """Read the prepared IPL training dataset."""
