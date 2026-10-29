@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-from src.predictor import load_model, predict_score, load_training_data
+from predictor import load_model, predict_score, load_training_data
+
 
 st.set_page_config(page_title="IPL Score Predictor", page_icon="🏏", layout="wide")
 st.title("🏏 IPL Score Prediction System")
