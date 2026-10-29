@@ -2,7 +2,7 @@ from pathlib import Path
 import joblib
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT / "ipl_training_data.csv"
 MODEL_PATH = ROOT / "ipl_score_model.joblib"
 
